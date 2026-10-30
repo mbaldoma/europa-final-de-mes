@@ -72,3 +72,52 @@ Aquest fitxer no s'utilitza directament a tots els gràfics. Cada visualització
 - **Turquia** té una inflació molt superior a la resta, així que els seus índexs de preus no són comparables en una mateixa escala.
 - Els indicadors de **pobresa** (`arope`, `gini`) s'han d'interpretar només des de 2014-2015.
 - Les conclusions es refereixen als països inclosos, majoritàriament de la Unió Europea, no a "Europa" en general.
+
+## Dades noves: ocupacions, sectors i enquesta salarial
+
+Aquests tres fitxers es descarreguen amb `descarrega_eurostat.py` (`python descarrega_eurostat.py ses_ocupacio assalariats_sector ocupats_isco2`) i es troben a [`data/`](data/). Tenen el mateix format que la resta de descàrregues de l'script: `geo` (codi de país), `pais` (nom), `TIME_PERIOD`, `OBS_VALUE` i `OBS_FLAG`, més les columnes de les dimensions. Inclouen la **UE-27** (`EU27_2020`) com a agregat de referència.
+
+| Fitxer | Indicador | Dataset d'Eurostat | Anys | Files |
+|---|---|---|---|---|
+| `assalariats_sector.csv` | Assalariats per sector i sexe | `lfsa_eegan2` | 2010-2025 | 32.518 |
+| `ocupats_isco2.csv` | Ocupats per ocupació i sexe | `lfsa_egai2d` | 2011-2025 | 72.166 |
+| `ses_ocupacio.csv` | Sou per hora per ocupació, sector i sexe | `earn_ses_hourly` | 2010, 2014, 2018, 2022 | 35.003 |
+
+### `assalariats_sector.csv`: assalariats per sector
+- **Opcions triades:** unitat en milers de persones; edat de 15 a 64 anys; sexe total, homes i dones.
+- **Sectors:** 23 valors de la classificació NACE Rev. 2 (A-U, més `TOTAL` i `NRP`, sense resposta). Cada lletra és una secció (p. ex. `F` = construcció, `J` = informació i comunicacions, `Q` = sanitat).
+- **Font:** enquesta de població activa de la UE.
+- **Observacions:** les xifres de països petits són poc fiables (marca `u`).
+
+### `ocupats_isco2.csv`: ocupats per ocupació
+- **Opcions triades:** unitat en milers de persones; edat de 15 a 64 anys; sexe total, homes i dones.
+- **Ocupacions:** 55 codis de la classificació **ISCO-08**: 9 grans grups (`OC1`-`OC9`), les forces armades (`OC0`), els subgrups de dos dígits (p. ex. `OC71`, treballadors de la construcció) i dos codis especials (`TOTAL`, `NRP`).
+- **Observacions:** hi ha ruptures de sèrie (marca `b`), de manera que un canvi gran entre dos anys pot venir d'un canvi de classificació.
+
+### `ses_ocupacio.csv`: enquesta d'estructura salarial
+- **Dataset:** *Structure of Earnings Survey* (`earn_ses_hourly`), que es fa **cada quatre anys**.
+- **Opcions triades:** jornada total, totes les edats, sexe total/homes/dones; tres indicadors (`SAL` assalariats, `MEAN_E_EUR` sou brut per hora en euros i `MEAN_E_PPS` en PPS); onze ocupacions (total, `OC1`-`OC9` i `OC0`) i quatre agrupacions de sectors (`B-S_X_O`, `B-F`, `G-N`, `P-S`).
+- **Cobertura:** empreses de 10 o més assalariats, seccions B a S sense l'administració pública (O).
+- **Observacions:**
+  - El **2022 només té el total per ocupació**, no el desglossament per sector (excepte Xipre).
+  - Els agregats de la UE-27 del 2010 i del 2014 són inconsistents: cal calcular-los a partir dels països o usar-ne proporcions.
+  - `SAL` és en **persones**, no en milers.
+  - Els valors són bruts, a diferència del salari net de `salari.csv`.
+
+### Taules mestres i fitxers de sortida
+
+El quadern `crea_mestre_i_exploracio.ipynb` combina tots els fitxers de `data/` en **tres taules**, perquè no tenen les mateixes dimensions. Substitueix el panell que generava `cobertura.ipynb`.
+
+| Fitxer | Una fila és... | Columnes |
+|---|---|---|
+| `data/panel_mestre.csv` | un país en un any | 71 (7 dimensions i 64 fets, 11 dels quals calculats) |
+| `data/ocupacions_mestre.csv` | un país, un any i una ocupació | 14 |
+| `data/ses_mestre.csv` | un país, un any, una ocupació i un sector | 19 |
+| `data/diccionari_variables.csv` | una columna del panell | descripció, unitat, font i rol (dimensió o fet) |
+
+Les cel·les buides **no són zeros**: vol dir que Eurostat no publica la dada. No s'omplen ni s'interpolen.
+
+Les columnes `regio`, `zona_euro_2024`, `te_sal_min_legal` i `periode` són de **classificació pròpia**, no d'Eurostat. Les columnes calculades (índexs a base 2010 = 100, pressió de l'habitatge, salari real, % de dones, bretxes) es documenten al diccionari amb la font *Calculada*.
+
+La carpeta `data_sortida/` conté fitxers CSV ja preparats per pujar a Flourish. Es poden regenerar executant la secció D del quadern.
+
