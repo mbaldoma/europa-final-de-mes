@@ -5,8 +5,8 @@ El quadern `crea_mestre_i_exploracio.ipynb` genera tres taules mestres a [`data/
 | Taula | Una fila és... | Files | Columnes |
 |---|---|---|---|
 | [`panel_mestre.csv`](data/panel_mestre.csv) | un país en un any | 480 | 71 |
-| [`ocupacions_mestre.csv`](data/ocupacions_mestre.csv) | un país, un any i una ocupació | _(segons les teves dades)_ | 14 |
-| [`ses_mestre.csv`](data/ses_mestre.csv) | un país, un any, una ocupació i un sector | _(segons les teves dades)_ | 19 |
+| [`ocupacions_mestre.csv`](data/ocupacions_mestre.csv) | un país, un any i una ocupació | 25223 | 14 |
+| [`ses_mestre.csv`](data/ses_mestre.csv) | un país, un any, una ocupació i un sector | 3946 | 19 |
 
 Els fets i les dimensions de `panel_mestre.csv` també són a [`diccionari_variables.csv`](data/diccionari_variables.csv).
 
