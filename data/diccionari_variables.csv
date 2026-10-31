@@ -1,0 +1,72 @@
+columna,descripcio,unitat,font,rol
+pais,"Nom del país, en anglès tal com el dona Eurostat",text,Eurostat,Dimensió
+geo,"Codi de país d'Eurostat (EL = Grècia, UK = Regne Unit)","text, 2 lletres",Eurostat,Dimensió
+any,Any de la dada,any,Eurostat,Dimensió
+regio,"Grup regional: Nord, Oest, Est, Sud o Altres (classificació pròpia, basada en l'esquema geogràfic de l'ONU)",categòrica,Pròpia,Dimensió
+zona_euro_2024,El país formava part de la zona euro el 2024,sí / no,Pròpia,Dimensió
+te_sal_min_legal,El país té salari mínim legal nacional en algun any de les dades,sí / no,Pròpia (a partir d'earn_mw_cur),Dimensió
+periode,"Etapa econòmica de l'any: crisi del deute (2010-2013), recuperació (2014-2019), pandèmia i inflació (2020-2024)",categòrica,Pròpia,Dimensió
+salari,Salari net anual d'una persona soltera sense fills amb un sou igual a la mitjana del país,euros per any (nominals),Eurostat earn_nt_net,Fet
+sal_min,Salari mínim mensual brut (mitjana dels dos semestres de l'any),euros per mes,Eurostat earn_mw_cur,Fet
+habitatge,"Índex de preus de l'habitatge (compra, nou i de segona mà)","índex, 2015 = 100",Eurostat prc_hpi_a,Fet
+ipc_CP00,Índex de preus de consum harmonitzat (HICP): tots els béns i serveis,"índex, 2015 = 100",Eurostat prc_hicp_aind,Fet
+ipc_CP01,HICP: aliments i begudes no alcohòliques,"índex, 2015 = 100",Eurostat prc_hicp_aind,Fet
+ipc_CP04,"HICP: habitatge, aigua, electricitat, gas i altres combustibles","índex, 2015 = 100",Eurostat prc_hicp_aind,Fet
+vacants,Taxa de vacants a la construcció,% dels llocs de treball,Eurostat jvs_a_rate_r2,Fet
+bretxa_B-N,"Bretxa salarial de gènere sense ajustar, economia empresarial",% del sou per hora dels homes,Eurostat earn_gr_gpgr2,Fet
+bretxa_F,"Bretxa salarial de gènere sense ajustar, construcció",% del sou per hora dels homes,Eurostat earn_gr_gpgr2,Fet
+atur_T,"Taxa d'atur de 15 a 74 anys, total",% de la població activa,Eurostat une_rt_a,Fet
+atur_M,"Taxa d'atur de 15 a 74 anys, homes",% de la població activa,Eurostat une_rt_a,Fet
+atur_F,"Taxa d'atur de 15 a 74 anys, dones",% de la població activa,Eurostat une_rt_a,Fet
+ocupacio_T,"Taxa d'ocupació de 15 a 64 anys, total",% de la població de 15 a 64,Eurostat lfsa_ergan,Fet
+ocupacio_M,"Taxa d'ocupació de 15 a 64 anys, homes",% de la població de 15 a 64,Eurostat lfsa_ergan,Fet
+ocupacio_F,"Taxa d'ocupació de 15 a 64 anys, dones",% de la població de 15 a 64,Eurostat lfsa_ergan,Fet
+pobresa_lab_T,"Risc de pobresa de les persones ocupades de 18 a 64 anys, total",% dels ocupats,Eurostat ilc_iw01,Fet
+pobresa_lab_M,"Risc de pobresa de les persones ocupades de 18 a 64 anys, homes",% dels ocupats,Eurostat ilc_iw01,Fet
+pobresa_lab_F,"Risc de pobresa de les persones ocupades de 18 a 64 anys, dones",% dels ocupats,Eurostat ilc_iw01,Fet
+sobrecarrega,Població que viu en llars on el cost de l'habitatge supera el 40 % de la renda disponible,% de la població,Eurostat ilc_lvho07a,Fet
+arope_T,"Risc de pobresa o d'exclusió social (AROPE), total",% de la població,Eurostat ilc_peps01n,Fet
+arope_M,"Risc de pobresa o d'exclusió social (AROPE), homes",% de la població,Eurostat ilc_peps01n,Fet
+arope_F,"Risc de pobresa o d'exclusió social (AROPE), dones",% de la població,Eurostat ilc_peps01n,Fet
+gini,Coeficient de Gini de la renda disponible equivalent,escala de 0 a 100,Eurostat ilc_di12,Fet
+pib_hab,PIB per habitant a preus corrents,euros per habitant,Eurostat nama_10_pc,Fet
+estudis_sup_T,"Població de 25 a 34 anys amb estudis superiors, total",% de la població de 25 a 34,Eurostat edat_lfse_03,Fet
+estudis_sup_M,"Població de 25 a 34 anys amb estudis superiors, homes",% de la població de 25 a 34,Eurostat edat_lfse_03,Fet
+estudis_sup_F,"Població de 25 a 34 anys amb estudis superiors, dones",% de la població de 25 a 34,Eurostat edat_lfse_03,Fet
+assal_total,"Assalariats de 15 a 64 anys, tots els sectors",milers de persones,Eurostat lfsa_eegan2,Fet
+assal_industria,Assalariats a la indústria manufacturera (NACE C),milers de persones,Eurostat lfsa_eegan2,Fet
+assal_construccio,Assalariats a la construcció (NACE F),milers de persones,Eurostat lfsa_eegan2,Fet
+assal_tic,Assalariats a informació i comunicacions (NACE J),milers de persones,Eurostat lfsa_eegan2,Fet
+assal_sanitat,Assalariats a sanitat i serveis socials (NACE Q),milers de persones,Eurostat lfsa_eegan2,Fet
+dones_total_pct,"Dones sobre el total d'assalariats, tots els sectors",% (calculada),Eurostat lfsa_eegan2,Fet
+dones_industria_pct,Dones sobre el total d'assalariats a la indústria manufacturera,% (calculada),Eurostat lfsa_eegan2,Fet
+dones_construccio_pct,Dones sobre el total d'assalariats a la construcció,% (calculada),Eurostat lfsa_eegan2,Fet
+dones_tic_pct,Dones sobre el total d'assalariats a informació i comunicacions,% (calculada),Eurostat lfsa_eegan2,Fet
+dones_sanitat_pct,Dones sobre el total d'assalariats a sanitat i serveis socials,% (calculada),Eurostat lfsa_eegan2,Fet
+ocup_total,"Ocupats de 15 a 64 anys, totes les ocupacions",milers de persones,Eurostat lfsa_egai2d,Fet
+ocup_directius,Ocupats com a directius i gerents (ISCO 1),milers de persones,Eurostat lfsa_egai2d,Fet
+ocup_oficis,Ocupats com a artesans i treballadors d'oficis (ISCO 7),milers de persones,Eurostat lfsa_egai2d,Fet
+ocup_paletes,"Ocupats en oficis de la construcció, excepte electricistes: paletes i similars (ISCO 71)",milers de persones,Eurostat lfsa_egai2d,Fet
+ocup_electricistes,Ocupats com a electricistes i electrònics (ISCO 74),milers de persones,Eurostat lfsa_egai2d,Fet
+ocup_proftic,Ocupats com a professionals de les TIC (ISCO 25),milers de persones,Eurostat lfsa_egai2d,Fet
+dones_directius_pct,Dones sobre el total d'ocupats com a directius i gerents,% (calculada),Eurostat lfsa_egai2d,Fet
+dones_oficis_pct,Dones sobre el total d'ocupats en oficis,% (calculada),Eurostat lfsa_egai2d,Fet
+dones_paletes_pct,Dones sobre el total d'ocupats en oficis de la construcció (ISCO 71),% (calculada),Eurostat lfsa_egai2d,Fet
+dones_electricistes_pct,Dones sobre el total d'electricistes i electrònics,% (calculada),Eurostat lfsa_egai2d,Fet
+dones_proftic_pct,Dones sobre el total de professionals de les TIC,% (calculada),Eurostat lfsa_egai2d,Fet
+sou_hora_T,"Sou brut mitjà per hora, tots els assalariats",euros per hora,Eurostat earn_ses_hourly,Fet
+sou_hora_M,"Sou brut mitjà per hora, homes",euros per hora,Eurostat earn_ses_hourly,Fet
+sou_hora_F,"Sou brut mitjà per hora, dones",euros per hora,Eurostat earn_ses_hourly,Fet
+sou_hora_pps_T,"Sou brut mitjà per hora, tots els assalariats, ajustat pel nivell de preus del país",PPS per hora,Eurostat earn_ses_hourly,Fet
+bretxa_hora_pct,Bretxa salarial calculada a partir del sou per hora: 1 - sou dones / sou homes,% (calculada),Eurostat earn_ses_hourly,Fet
+salari_idx2010,"Salari net, rebasat: 2010 = 100","índex, 2010 = 100",Calculada,Fet
+habitatge_idx2010,"Preus de l'habitatge, rebasats: 2010 = 100","índex, 2010 = 100",Calculada,Fet
+ipc_CP00_idx2010,"Preus de consum en general, rebasats: 2010 = 100","índex, 2010 = 100",Calculada,Fet
+ipc_CP01_idx2010,"Preus dels aliments, rebasats: 2010 = 100","índex, 2010 = 100",Calculada,Fet
+ipc_CP04_idx2010,"Preus d'habitatge i subministraments, rebasats: 2010 = 100","índex, 2010 = 100",Calculada,Fet
+pib_hab_idx2010,"PIB per habitant, rebasat: 2010 = 100","índex, 2010 = 100",Calculada,Fet
+pressio_habitatge,Pressió de l'habitatge: preu de l'habitatge dividit pel salari (ambdós a base 2010 = 100),"índex, 2010 = 100",Calculada,Fet
+pressio_menjar,Pressió dels aliments: preu dels aliments dividit pel salari (ambdós a base 2010 = 100),"índex, 2010 = 100",Calculada,Fet
+salari_real_idx2010,Salari real: salari net dividit pels preus de consum generals (ambdós a base 2010 = 100),"índex, 2010 = 100",Calculada,Fet
+bretxa_atur_pp,Diferència d'atur entre dones i homes (atur dones - atur homes),punts percentuals,Calculada,Fet
+bretxa_ocupacio_pp,Diferència d'ocupació entre homes i dones (ocupació homes - ocupació dones),punts percentuals,Calculada,Fet

@@ -1,0 +1,109 @@
+ocupacio,isco08,sector,any,dones_pct,sou_hora_eur_T,sou_hora_pps_T,assalariats_T,bretxa_pct
+Directius i gerents,OC1,Indústria i construcció,2010,20.9,24.08,24.82,1370652.56,27.54
+Directius i gerents,OC1,Tota l'economia (sense administració pública),2010,34.66,24.33,24.41,5551923.4,29.28
+Directius i gerents,OC1,Serveis empresarials,2010,33.6,25.19,25.07,3123372.98,31.58
+Directius i gerents,OC1,"Educació, sanitat i altres serveis",2010,55.61,22.13,21.92,1057897.86,25.38
+Professionals científics i intel·lectuals,OC2,Indústria i construcció,2010,26.79,20.09,20.1,2253796.97,34.64
+Professionals científics i intel·lectuals,OC2,Tota l'economia (sense administració pública),2010,55.78,18.38,18.35,17485977.04,25.12
+Professionals científics i intel·lectuals,OC2,Serveis empresarials,2010,39.67,18.87,18.85,4965094.34,27.9
+Professionals científics i intel·lectuals,OC2,"Educació, sanitat i altres serveis",2010,69.93,17.77,17.72,10267085.73,22.72
+Tècnics i professionals de suport,OC3,Indústria i construcció,2010,26.55,16.56,16.32,5040699.98,24.77
+Tècnics i professionals de suport,OC3,Tota l'economia (sense administració pública),2010,48.47,15.65,15.28,17623818.3,21.2
+Tècnics i professionals de suport,OC3,Serveis empresarials,2010,43.22,16.24,15.86,7332881.27,20.94
+Tècnics i professionals de suport,OC3,"Educació, sanitat i altres serveis",2010,76.84,13.97,13.47,5250237.05,10.53
+Personal administratiu,OC4,Indústria i construcció,2010,60.7,12.38,12.21,2803962.74,12.68
+Personal administratiu,OC4,Tota l'economia (sense administració pública),2010,63.46,11.96,11.69,14037301.16,10.09
+Personal administratiu,OC4,Serveis empresarials,2010,61.31,11.91,11.65,8940675.26,10.38
+Personal administratiu,OC4,"Educació, sanitat i altres serveis",2010,75.24,11.65,11.23,2292663.16,2.77
+Treballadors de serveis i vendes,OC5,Indústria i construcció,2010,60.49,9.69,9.71,830675.02,34.53
+Treballadors de serveis i vendes,OC5,Tota l'economia (sense administració pública),2010,66.33,9.66,9.32,16863708.73,7.47
+Treballadors de serveis i vendes,OC5,Serveis empresarials,2010,60.2,8.8,8.68,11090100.8,14.14
+Treballadors de serveis i vendes,OC5,"Educació, sanitat i altres serveis",2010,81.06,11.59,10.67,4942932.91,4.65
+"Treballadors qualificats agrícoles, forestals i pesquers",OC6,Indústria i construcció,2010,18.34,9.67,9.43,78606.66,20.7
+"Treballadors qualificats agrícoles, forestals i pesquers",OC6,Tota l'economia (sense administració pública),2010,22.19,9.82,9.4,331029.04,17.61
+"Treballadors qualificats agrícoles, forestals i pesquers",OC6,Serveis empresarials,2010,21.85,9.47,9.14,190602.41,24.2
+"Treballadors qualificats agrícoles, forestals i pesquers",OC6,"Educació, sanitat i altres serveis",2010,28.15,11.07,10.2,61819.97,3.49
+Artesans i treballadors d'oficis,OC7,Indústria i construcció,2010,12.67,10.58,10.7,10508318.65,42.49
+Artesans i treballadors d'oficis,OC7,Tota l'economia (sense administració pública),2010,13.4,10.48,10.55,13911134.43,37.35
+Artesans i treballadors d'oficis,OC7,Serveis empresarials,2010,14.22,10.19,10.14,2944200.63,26.44
+Artesans i treballadors d'oficis,OC7,"Educació, sanitat i altres serveis",2010,24.63,10.05,9.84,458615.15,9.14
+Operadors d'instal·lacions i maquinària i muntadors,OC8,Indústria i construcció,2010,25.34,10.32,10.43,6320222.2,31.55
+Operadors d'instal·lacions i maquinària i muntadors,OC8,Tota l'economia (sense administració pública),2010,19.23,10.08,10.16,10526876.62,25.09
+Operadors d'instal·lacions i maquinària i muntadors,OC8,Serveis empresarials,2010,8.41,9.87,9.86,3920438.0,7.35
+Operadors d'instal·lacions i maquinària i muntadors,OC8,"Educació, sanitat i altres serveis",2010,32.47,7.8,8.06,286216.42,-3.77
+Ocupacions elementals,OC9,Indústria i construcció,2010,30.27,8.11,8.22,3097415.48,26.42
+Ocupacions elementals,OC9,Tota l'economia (sense administració pública),2010,51.32,8.37,8.21,11184561.43,13.46
+Ocupacions elementals,OC9,Serveis empresarials,2010,52.82,8.58,8.28,6033052.33,13.43
+Ocupacions elementals,OC9,"Educació, sanitat i altres serveis",2010,78.64,8.16,8.01,2054093.62,2.17
+Directius i gerents,OC1,Indústria i construcció,2014,20.35,26.52,27.53,1472017.59,29.16
+Directius i gerents,OC1,Tota l'economia (sense administració pública),2014,34.68,26.06,26.46,5638556.89,30.4
+Directius i gerents,OC1,Serveis empresarials,2014,35.13,26.59,26.8,3282260.64,29.56
+Directius i gerents,OC1,"Educació, sanitat i altres serveis",2014,56.88,23.37,23.45,884278.66,34.55
+Professionals científics i intel·lectuals,OC2,Indústria i construcció,2014,26.24,22.12,22.3,2769630.73,29.52
+Professionals científics i intel·lectuals,OC2,Tota l'economia (sense administració pública),2014,55.0,19.68,19.71,21354181.7,24.07
+Professionals científics i intel·lectuals,OC2,Serveis empresarials,2014,39.03,20.68,20.73,6586746.94,24.73
+Professionals científics i intel·lectuals,OC2,"Educació, sanitat i altres serveis",2014,70.41,18.57,18.55,11997804.03,20.54
+Tècnics i professionals de suport,OC3,Indústria i construcció,2014,25.58,17.6,17.56,5144495.39,23.5
+Tècnics i professionals de suport,OC3,Tota l'economia (sense administració pública),2014,51.12,16.09,15.9,19640639.07,20.18
+Tècnics i professionals de suport,OC3,Serveis empresarials,2014,45.33,16.3,16.14,7955273.74,19.16
+Tècnics i professionals de suport,OC3,"Educació, sanitat i altres serveis",2014,78.24,14.64,14.29,6540869.94,11.56
+Personal administratiu,OC4,Indústria i construcció,2014,59.71,13.99,13.93,2973256.68,13.66
+Personal administratiu,OC4,Tota l'economia (sense administració pública),2014,63.04,13.27,13.08,15019148.03,10.81
+Personal administratiu,OC4,Serveis empresarials,2014,60.45,13.19,13.0,9814488.37,10.31
+Personal administratiu,OC4,"Educació, sanitat i altres serveis",2014,78.86,12.63,12.31,2231402.98,4.58
+Treballadors de serveis i vendes,OC5,Indústria i construcció,2014,65.03,9.64,9.79,858933.96,30.31
+Treballadors de serveis i vendes,OC5,Tota l'economia (sense administració pública),2014,66.77,10.22,9.92,18836127.31,5.56
+Treballadors de serveis i vendes,OC5,Serveis empresarials,2014,60.22,9.54,9.47,12167967.5,11.14
+Treballadors de serveis i vendes,OC5,"Educació, sanitat i altres serveis",2014,80.75,11.74,10.87,5809225.85,2.01
+"Treballadors qualificats agrícoles, forestals i pesquers",OC6,Indústria i construcció,2014,10.21,10.61,10.13,57606.9,33.48
+"Treballadors qualificats agrícoles, forestals i pesquers",OC6,Tota l'economia (sense administració pública),2014,16.93,10.97,10.62,348410.27,16.65
+"Treballadors qualificats agrícoles, forestals i pesquers",OC6,Serveis empresarials,2014,16.9,10.73,10.54,218978.98,17.81
+"Treballadors qualificats agrícoles, forestals i pesquers",OC6,"Educació, sanitat i altres serveis",2014,22.42,12.01,11.27,71824.39,11.52
+Artesans i treballadors d'oficis,OC7,Indústria i construcció,2014,11.78,11.73,12.03,9965954.05,42.14
+Artesans i treballadors d'oficis,OC7,Tota l'economia (sense administració pública),2014,13.87,11.39,11.64,13985338.46,37.99
+Artesans i treballadors d'oficis,OC7,Serveis empresarials,2014,17.2,10.6,10.74,3493594.62,33.78
+Artesans i treballadors d'oficis,OC7,"Educació, sanitat i altres serveis",2014,31.31,10.32,10.21,525789.79,8.12
+Operadors d'instal·lacions i maquinària i muntadors,OC8,Indústria i construcció,2014,24.96,10.87,11.37,6084135.07,33.61
+Operadors d'instal·lacions i maquinària i muntadors,OC8,Tota l'economia (sense administració pública),2014,18.92,10.46,10.81,10764796.25,24.95
+Operadors d'instal·lacions i maquinària i muntadors,OC8,Serveis empresarials,2014,9.53,10.04,10.19,4354745.99,6.04
+Operadors d'instal·lacions i maquinària i muntadors,OC8,"Educació, sanitat i altres serveis",2014,31.62,8.36,8.73,325915.19,-1.68
+Ocupacions elementals,OC9,Indústria i construcció,2014,34.6,8.11,8.48,3104923.03,23.56
+Ocupacions elementals,OC9,Tota l'economia (sense administració pública),2014,55.36,8.81,8.75,13234709.72,9.36
+Ocupacions elementals,OC9,Serveis empresarials,2014,56.35,9.09,8.87,7589355.1,10.07
+Ocupacions elementals,OC9,"Educació, sanitat i altres serveis",2014,77.79,8.83,8.72,2540431.59,1.68
+Directius i gerents,OC1,Indústria i construcció,2018,23.64,28.65,28.65,1426856.72,28.31
+Directius i gerents,OC1,Tota l'economia (sense administració pública),2018,37.87,28.62,28.62,5448698.35,31.02
+Directius i gerents,OC1,Serveis empresarials,2018,38.67,29.25,29.25,3173650.95,31.7
+Directius i gerents,OC1,"Educació, sanitat i altres serveis",2018,58.83,26.22,26.22,848190.68,34.05
+Professionals científics i intel·lectuals,OC2,Indústria i construcció,2018,27.93,23.98,23.98,2999808.94,26.2
+Professionals científics i intel·lectuals,OC2,Tota l'economia (sense administració pública),2018,55.4,21.36,21.36,22956978.24,22.53
+Professionals científics i intel·lectuals,OC2,Serveis empresarials,2018,39.6,22.6,22.6,7214744.71,22.05
+Professionals científics i intel·lectuals,OC2,"Educació, sanitat i altres serveis",2018,70.81,20.05,20.05,12742424.59,18.89
+Tècnics i professionals de suport,OC3,Indústria i construcció,2018,26.31,19.13,19.13,5212354.07,21.04
+Tècnics i professionals de suport,OC3,Tota l'economia (sense administració pública),2018,50.01,17.76,17.76,19344866.37,17.47
+Tècnics i professionals de suport,OC3,Serveis empresarials,2018,44.39,17.91,17.91,7832654.28,17.03
+Tècnics i professionals de suport,OC3,"Educació, sanitat i altres serveis",2018,76.59,16.44,16.44,6299858.02,8.9
+Personal administratiu,OC4,Indústria i construcció,2018,55.14,15.18,15.18,2904771.77,11.82
+Personal administratiu,OC4,Tota l'economia (sense administració pública),2018,60.1,14.2,14.2,14511131.93,9.5
+Personal administratiu,OC4,Serveis empresarials,2018,57.8,14.04,14.04,9394246.47,8.53
+Personal administratiu,OC4,"Educació, sanitat i altres serveis",2018,76.38,13.56,13.56,2212113.69,6.71
+Treballadors de serveis i vendes,OC5,Indústria i construcció,2018,63.09,10.7,10.7,787617.27,28.26
+Treballadors de serveis i vendes,OC5,Tota l'economia (sense administració pública),2018,65.31,11.16,11.16,18741576.04,4.94
+Treballadors de serveis i vendes,OC5,Serveis empresarials,2018,58.87,10.56,10.56,12216857.84,8.54
+Treballadors de serveis i vendes,OC5,"Educació, sanitat i altres serveis",2018,79.32,12.48,12.48,5737100.93,4.11
+"Treballadors qualificats agrícoles, forestals i pesquers",OC6,Indústria i construcció,2018,16.1,12.01,12.01,54439.09,21.24
+"Treballadors qualificats agrícoles, forestals i pesquers",OC6,Tota l'economia (sense administració pública),2018,19.93,12.6,12.6,313173.82,10.49
+"Treballadors qualificats agrícoles, forestals i pesquers",OC6,Serveis empresarials,2018,19.94,12.5,12.5,192481.11,15.21
+"Treballadors qualificats agrícoles, forestals i pesquers",OC6,"Educació, sanitat i altres serveis",2018,23.07,13.38,13.38,66253.62,-6.07
+Artesans i treballadors d'oficis,OC7,Indústria i construcció,2018,12.58,12.99,12.99,9345655.99,38.24
+Artesans i treballadors d'oficis,OC7,Tota l'economia (sense administració pública),2018,13.6,12.84,12.84,12733819.63,32.24
+Artesans i treballadors d'oficis,OC7,Serveis empresarials,2018,13.64,12.58,12.58,2845821.56,20.99
+Artesans i treballadors d'oficis,OC7,"Educació, sanitat i altres serveis",2018,30.97,11.59,11.59,542342.08,5.1
+Operadors d'instal·lacions i maquinària i muntadors,OC8,Indústria i construcció,2018,25.44,11.88,11.88,6184505.4,31.81
+Operadors d'instal·lacions i maquinària i muntadors,OC8,Tota l'economia (sense administració pública),2018,19.46,11.45,11.45,11023581.46,23.44
+Operadors d'instal·lacions i maquinària i muntadors,OC8,Serveis empresarials,2018,10.56,11.01,11.01,4550275.06,6.14
+Operadors d'instal·lacions i maquinària i muntadors,OC8,"Educació, sanitat i altres serveis",2018,31.78,9.15,9.15,288801.0,-1.65
+Ocupacions elementals,OC9,Indústria i construcció,2018,33.38,9.03,9.03,3142916.47,23.37
+Ocupacions elementals,OC9,Tota l'economia (sense administració pública),2018,53.28,9.65,9.65,13461269.75,9.35
+Ocupacions elementals,OC9,Serveis empresarials,2018,53.28,9.9,9.9,7791040.03,9.13
+Ocupacions elementals,OC9,"Educació, sanitat i altres serveis",2018,78.03,9.66,9.66,2527313.25,3.13

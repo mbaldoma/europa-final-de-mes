@@ -1,0 +1,639 @@
+ocupacio,isco08,grup_nom,any,ocupats_T,dones_pct,ocupats_idx2011,pes_pct
+Oficials de les forces armades,OC01,Forces armades,2011,270.4,6.92,100.0,0.15
+Oficials de les forces armades,OC01,Forces armades,2012,240.4,7.95,88.91,0.13
+Oficials de les forces armades,OC01,Forces armades,2013,225.7,7.53,83.47,0.12
+Oficials de les forces armades,OC01,Forces armades,2014,197.8,5.92,73.15,0.11
+Oficials de les forces armades,OC01,Forces armades,2015,196.5,6.06,72.67,0.11
+Oficials de les forces armades,OC01,Forces armades,2016,193.1,7.09,71.41,0.1
+Oficials de les forces armades,OC01,Forces armades,2017,191.9,10.79,70.97,0.1
+Oficials de les forces armades,OC01,Forces armades,2018,207.9,11.84,76.89,0.11
+Oficials de les forces armades,OC01,Forces armades,2019,209.0,10.67,77.29,0.11
+Oficials de les forces armades,OC01,Forces armades,2021,214.8,9.73,79.44,0.11
+Oficials de les forces armades,OC01,Forces armades,2022,223.6,10.96,82.69,0.11
+Oficials de les forces armades,OC01,Forces armades,2023,245.8,14.24,90.9,0.12
+Oficials de les forces armades,OC01,Forces armades,2024,265.6,12.27,98.22,0.13
+Oficials de les forces armades,OC01,Forces armades,2025,271.1,13.87,100.26,0.13
+Suboficials de les forces armades,OC02,Forces armades,2011,318.4,5.02,100.0,0.17
+Suboficials de les forces armades,OC02,Forces armades,2012,355.8,5.51,111.75,0.19
+Suboficials de les forces armades,OC02,Forces armades,2013,346.3,6.44,108.76,0.19
+Suboficials de les forces armades,OC02,Forces armades,2014,370.1,7.05,116.24,0.2
+Suboficials de les forces armades,OC02,Forces armades,2015,367.8,5.79,115.52,0.2
+Suboficials de les forces armades,OC02,Forces armades,2016,350.1,6.23,109.96,0.19
+Suboficials de les forces armades,OC02,Forces armades,2017,336.7,6.95,105.75,0.18
+Suboficials de les forces armades,OC02,Forces armades,2018,356.1,5.93,111.84,0.18
+Suboficials de les forces armades,OC02,Forces armades,2019,346.9,7.12,108.95,0.18
+Suboficials de les forces armades,OC02,Forces armades,2020,345.3,7.36,108.45,0.18
+Suboficials de les forces armades,OC02,Forces armades,2021,316.8,9.63,99.5,0.16
+Suboficials de les forces armades,OC02,Forces armades,2022,344.0,10.35,108.04,0.17
+Suboficials de les forces armades,OC02,Forces armades,2023,339.7,10.83,106.69,0.17
+Suboficials de les forces armades,OC02,Forces armades,2024,358.3,10.66,112.53,0.18
+Suboficials de les forces armades,OC02,Forces armades,2025,382.8,13.35,120.23,0.19
+Altres membres de les forces armades,OC03,Forces armades,2011,648.8,9.99,100.0,0.35
+Altres membres de les forces armades,OC03,Forces armades,2012,665.7,8.52,102.6,0.36
+Altres membres de les forces armades,OC03,Forces armades,2013,621.9,8.94,95.85,0.34
+Altres membres de les forces armades,OC03,Forces armades,2014,630.0,10.06,97.1,0.34
+Altres membres de les forces armades,OC03,Forces armades,2015,614.2,10.5,94.67,0.33
+Altres membres de les forces armades,OC03,Forces armades,2016,589.6,10.35,90.88,0.31
+Altres membres de les forces armades,OC03,Forces armades,2017,613.9,9.5,94.62,0.32
+Altres membres de les forces armades,OC03,Forces armades,2018,667.5,11.17,102.88,0.35
+Altres membres de les forces armades,OC03,Forces armades,2019,683.3,11.62,105.32,0.35
+Altres membres de les forces armades,OC03,Forces armades,2020,638.8,9.66,98.46,0.33
+Altres membres de les forces armades,OC03,Forces armades,2021,604.5,10.62,93.17,0.31
+Altres membres de les forces armades,OC03,Forces armades,2022,597.3,11.34,92.06,0.3
+Altres membres de les forces armades,OC03,Forces armades,2023,587.9,10.87,90.61,0.3
+Altres membres de les forces armades,OC03,Forces armades,2024,586.1,13.17,90.34,0.29
+Altres membres de les forces armades,OC03,Forces armades,2025,568.3,13.13,87.59,0.28
+Directius executius i alts càrrecs,OC11,Directius i gerents,2011,1624.1,25.31,100.0,0.88
+Directius executius i alts càrrecs,OC11,Directius i gerents,2012,1490.5,25.65,91.77,0.82
+Directius executius i alts càrrecs,OC11,Directius i gerents,2013,1409.2,25.92,86.77,0.77
+Directius executius i alts càrrecs,OC11,Directius i gerents,2014,1383.2,25.98,85.17,0.75
+Directius executius i alts càrrecs,OC11,Directius i gerents,2015,1442.9,26.68,88.84,0.78
+Directius executius i alts càrrecs,OC11,Directius i gerents,2016,1520.3,26.75,93.61,0.81
+Directius executius i alts càrrecs,OC11,Directius i gerents,2017,1464.8,26.83,90.19,0.77
+Directius executius i alts càrrecs,OC11,Directius i gerents,2018,1432.5,27.61,88.2,0.74
+Directius executius i alts càrrecs,OC11,Directius i gerents,2019,1498.0,28.56,92.24,0.77
+Directius executius i alts càrrecs,OC11,Directius i gerents,2020,1358.8,28.3,83.66,0.71
+Directius executius i alts càrrecs,OC11,Directius i gerents,2021,1480.2,28.95,91.14,0.77
+Directius executius i alts càrrecs,OC11,Directius i gerents,2022,1517.2,28.92,93.42,0.77
+Directius executius i alts càrrecs,OC11,Directius i gerents,2023,1565.9,29.21,96.42,0.79
+Directius executius i alts càrrecs,OC11,Directius i gerents,2024,1603.7,29.79,98.74,0.8
+Directius executius i alts càrrecs,OC11,Directius i gerents,2025,1579.9,28.77,97.28,0.78
+Directors d'administració i comercials,OC12,Directius i gerents,2011,3010.0,38.15,100.0,1.64
+Directors d'administració i comercials,OC12,Directius i gerents,2012,2631.2,37.63,87.42,1.44
+Directors d'administració i comercials,OC12,Directius i gerents,2013,2453.8,37.88,81.52,1.35
+Directors d'administració i comercials,OC12,Directius i gerents,2014,2392.1,38.71,79.47,1.3
+Directors d'administració i comercials,OC12,Directius i gerents,2015,2414.1,38.56,80.2,1.3
+Directors d'administració i comercials,OC12,Directius i gerents,2016,2437.8,38.94,80.99,1.29
+Directors d'administració i comercials,OC12,Directius i gerents,2017,2522.6,39.02,83.81,1.32
+Directors d'administració i comercials,OC12,Directius i gerents,2018,2526.9,40.62,83.95,1.31
+Directors d'administració i comercials,OC12,Directius i gerents,2019,2592.1,40.43,86.12,1.33
+Directors d'administració i comercials,OC12,Directius i gerents,2020,2477.7,42.86,82.32,1.29
+Directors d'administració i comercials,OC12,Directius i gerents,2021,2511.5,41.45,83.44,1.3
+Directors d'administració i comercials,OC12,Directius i gerents,2022,2669.7,43.15,88.69,1.36
+Directors d'administració i comercials,OC12,Directius i gerents,2023,2752.1,43.33,91.43,1.38
+Directors d'administració i comercials,OC12,Directius i gerents,2024,2865.3,43.61,95.19,1.43
+Directors d'administració i comercials,OC12,Directius i gerents,2025,2954.7,44.78,98.16,1.47
+Directors de producció i serveis especialitzats,OC13,Directius i gerents,2011,2804.2,28.53,100.0,1.53
+Directors de producció i serveis especialitzats,OC13,Directius i gerents,2012,3032.7,29.61,108.15,1.66
+Directors de producció i serveis especialitzats,OC13,Directius i gerents,2013,3217.7,27.93,114.75,1.77
+Directors de producció i serveis especialitzats,OC13,Directius i gerents,2014,3438.1,27.14,122.61,1.87
+Directors de producció i serveis especialitzats,OC13,Directius i gerents,2015,3426.6,27.4,122.2,1.84
+Directors de producció i serveis especialitzats,OC13,Directius i gerents,2016,3434.8,27.99,122.49,1.82
+Directors de producció i serveis especialitzats,OC13,Directius i gerents,2017,3473.8,28.44,123.88,1.82
+Directors de producció i serveis especialitzats,OC13,Directius i gerents,2018,3554.0,28.52,126.74,1.84
+Directors de producció i serveis especialitzats,OC13,Directius i gerents,2019,3612.8,29.58,128.84,1.85
+Directors de producció i serveis especialitzats,OC13,Directius i gerents,2020,3475.4,29.1,123.94,1.81
+Directors de producció i serveis especialitzats,OC13,Directius i gerents,2021,3172.7,30.12,113.14,1.65
+Directors de producció i serveis especialitzats,OC13,Directius i gerents,2022,3317.2,30.14,118.29,1.68
+Directors de producció i serveis especialitzats,OC13,Directius i gerents,2023,3367.1,30.03,120.07,1.69
+Directors de producció i serveis especialitzats,OC13,Directius i gerents,2024,3539.2,30.28,126.21,1.76
+Directors de producció i serveis especialitzats,OC13,Directius i gerents,2025,3716.6,30.88,132.54,1.84
+"Directors d'hostaleria, comerç i altres serveis",OC14,Directius i gerents,2011,2466.4,36.65,100.0,1.34
+"Directors d'hostaleria, comerç i altres serveis",OC14,Directius i gerents,2012,2348.7,37.11,95.23,1.29
+"Directors d'hostaleria, comerç i altres serveis",OC14,Directius i gerents,2013,2239.7,36.76,90.81,1.23
+"Directors d'hostaleria, comerç i altres serveis",OC14,Directius i gerents,2014,2173.6,36.55,88.13,1.18
+"Directors d'hostaleria, comerç i altres serveis",OC14,Directius i gerents,2015,2175.7,36.55,88.21,1.17
+"Directors d'hostaleria, comerç i altres serveis",OC14,Directius i gerents,2016,2190.5,38.48,88.81,1.16
+"Directors d'hostaleria, comerç i altres serveis",OC14,Directius i gerents,2017,2149.7,37.32,87.16,1.13
+"Directors d'hostaleria, comerç i altres serveis",OC14,Directius i gerents,2018,2206.7,36.37,89.47,1.14
+"Directors d'hostaleria, comerç i altres serveis",OC14,Directius i gerents,2019,2248.3,36.68,91.16,1.15
+"Directors d'hostaleria, comerç i altres serveis",OC14,Directius i gerents,2020,2223.7,37.52,90.16,1.16
+"Directors d'hostaleria, comerç i altres serveis",OC14,Directius i gerents,2021,2330.6,38.88,94.49,1.21
+"Directors d'hostaleria, comerç i altres serveis",OC14,Directius i gerents,2022,2434.6,38.66,98.71,1.24
+"Directors d'hostaleria, comerç i altres serveis",OC14,Directius i gerents,2023,2402.5,37.37,97.41,1.21
+"Directors d'hostaleria, comerç i altres serveis",OC14,Directius i gerents,2024,2421.0,38.13,98.16,1.21
+"Directors d'hostaleria, comerç i altres serveis",OC14,Directius i gerents,2025,2485.8,39.78,100.79,1.23
+Professionals de la ciència i l'enginyeria,OC21,Professionals científics i intel·lectuals,2011,5252.0,25.04,100.0,2.86
+Professionals de la ciència i l'enginyeria,OC21,Professionals científics i intel·lectuals,2012,5253.5,25.57,100.03,2.88
+Professionals de la ciència i l'enginyeria,OC21,Professionals científics i intel·lectuals,2013,5288.5,26.05,100.69,2.91
+Professionals de la ciència i l'enginyeria,OC21,Professionals científics i intel·lectuals,2014,5319.6,26.89,101.29,2.89
+Professionals de la ciència i l'enginyeria,OC21,Professionals científics i intel·lectuals,2015,5414.5,27.83,103.09,2.92
+Professionals de la ciència i l'enginyeria,OC21,Professionals científics i intel·lectuals,2016,5585.5,27.21,106.35,2.96
+Professionals de la ciència i l'enginyeria,OC21,Professionals científics i intel·lectuals,2017,5729.5,27.9,109.09,3.0
+Professionals de la ciència i l'enginyeria,OC21,Professionals científics i intel·lectuals,2018,5901.7,28.59,112.37,3.06
+Professionals de la ciència i l'enginyeria,OC21,Professionals científics i intel·lectuals,2019,6064.6,29.38,115.47,3.11
+Professionals de la ciència i l'enginyeria,OC21,Professionals científics i intel·lectuals,2020,6251.2,29.92,119.03,3.26
+Professionals de la ciència i l'enginyeria,OC21,Professionals científics i intel·lectuals,2021,6784.8,29.85,129.19,3.52
+Professionals de la ciència i l'enginyeria,OC21,Professionals científics i intel·lectuals,2022,6982.7,31.13,132.95,3.55
+Professionals de la ciència i l'enginyeria,OC21,Professionals científics i intel·lectuals,2023,7277.1,31.47,138.56,3.66
+Professionals de la ciència i l'enginyeria,OC21,Professionals científics i intel·lectuals,2024,7533.8,30.76,143.45,3.75
+Professionals de la ciència i l'enginyeria,OC21,Professionals científics i intel·lectuals,2025,7904.6,31.48,150.51,3.92
+Professionals de la salut,OC22,Professionals científics i intel·lectuals,2011,4544.2,67.33,100.0,2.48
+Professionals de la salut,OC22,Professionals científics i intel·lectuals,2012,4652.8,67.83,102.39,2.55
+Professionals de la salut,OC22,Professionals científics i intel·lectuals,2013,4702.2,68.97,103.48,2.59
+Professionals de la salut,OC22,Professionals científics i intel·lectuals,2014,4774.5,69.27,105.07,2.6
+Professionals de la salut,OC22,Professionals científics i intel·lectuals,2015,4828.8,68.92,106.26,2.6
+Professionals de la salut,OC22,Professionals científics i intel·lectuals,2016,4935.1,69.93,108.6,2.62
+Professionals de la salut,OC22,Professionals científics i intel·lectuals,2017,4980.3,70.2,109.6,2.61
+Professionals de la salut,OC22,Professionals científics i intel·lectuals,2018,5153.0,70.94,113.4,2.67
+Professionals de la salut,OC22,Professionals científics i intel·lectuals,2019,5369.0,70.79,118.15,2.76
+Professionals de la salut,OC22,Professionals científics i intel·lectuals,2020,5482.1,70.68,120.64,2.86
+Professionals de la salut,OC22,Professionals científics i intel·lectuals,2021,5595.0,71.12,123.12,2.91
+Professionals de la salut,OC22,Professionals científics i intel·lectuals,2022,5669.1,71.88,124.75,2.88
+Professionals de la salut,OC22,Professionals científics i intel·lectuals,2023,5864.4,72.06,129.05,2.95
+Professionals de la salut,OC22,Professionals científics i intel·lectuals,2024,6069.5,71.64,133.57,3.02
+Professionals de la salut,OC22,Professionals científics i intel·lectuals,2025,6231.2,71.99,137.12,3.09
+Professionals de l'ensenyament,OC23,Professionals científics i intel·lectuals,2011,9114.8,71.2,100.0,4.96
+Professionals de l'ensenyament,OC23,Professionals científics i intel·lectuals,2012,9115.6,70.58,100.01,4.99
+Professionals de l'ensenyament,OC23,Professionals científics i intel·lectuals,2013,8960.3,70.86,98.3,4.93
+Professionals de l'ensenyament,OC23,Professionals científics i intel·lectuals,2014,8979.9,71.08,98.52,4.88
+Professionals de l'ensenyament,OC23,Professionals científics i intel·lectuals,2015,9064.7,71.61,99.45,4.88
+Professionals de l'ensenyament,OC23,Professionals científics i intel·lectuals,2016,9145.5,71.61,100.34,4.85
+Professionals de l'ensenyament,OC23,Professionals científics i intel·lectuals,2017,9312.4,71.63,102.17,4.87
+Professionals de l'ensenyament,OC23,Professionals científics i intel·lectuals,2018,9428.6,71.83,103.44,4.89
+Professionals de l'ensenyament,OC23,Professionals científics i intel·lectuals,2019,9542.0,71.53,104.69,4.9
+Professionals de l'ensenyament,OC23,Professionals científics i intel·lectuals,2020,10299.9,72.26,113.0,5.37
+Professionals de l'ensenyament,OC23,Professionals científics i intel·lectuals,2021,10549.9,72.57,115.74,5.48
+Professionals de l'ensenyament,OC23,Professionals científics i intel·lectuals,2022,10587.2,72.89,116.15,5.38
+Professionals de l'ensenyament,OC23,Professionals científics i intel·lectuals,2023,10782.2,73.07,118.29,5.42
+Professionals de l'ensenyament,OC23,Professionals científics i intel·lectuals,2024,10871.5,73.25,119.27,5.42
+Professionals de l'ensenyament,OC23,Professionals científics i intel·lectuals,2025,10966.5,73.76,120.32,5.44
+Professionals d'empresa i administració,OC24,Professionals científics i intel·lectuals,2011,4913.4,49.54,100.0,2.68
+Professionals d'empresa i administració,OC24,Professionals científics i intel·lectuals,2012,5124.4,50.31,104.29,2.81
+Professionals d'empresa i administració,OC24,Professionals científics i intel·lectuals,2013,5606.0,50.38,114.1,3.08
+Professionals d'empresa i administració,OC24,Professionals científics i intel·lectuals,2014,5954.5,50.61,121.19,3.24
+Professionals d'empresa i administració,OC24,Professionals científics i intel·lectuals,2015,6271.4,51.11,127.64,3.38
+Professionals d'empresa i administració,OC24,Professionals científics i intel·lectuals,2016,6574.6,50.96,133.81,3.49
+Professionals d'empresa i administració,OC24,Professionals científics i intel·lectuals,2017,6828.3,51.32,138.97,3.57
+Professionals d'empresa i administració,OC24,Professionals científics i intel·lectuals,2018,7047.1,51.63,143.43,3.65
+Professionals d'empresa i administració,OC24,Professionals científics i intel·lectuals,2019,7446.4,52.45,151.55,3.82
+Professionals d'empresa i administració,OC24,Professionals científics i intel·lectuals,2020,7742.5,52.98,157.58,4.04
+Professionals d'empresa i administració,OC24,Professionals científics i intel·lectuals,2021,8304.6,53.29,169.02,4.31
+Professionals d'empresa i administració,OC24,Professionals científics i intel·lectuals,2022,8763.3,53.03,178.36,4.45
+Professionals d'empresa i administració,OC24,Professionals científics i intel·lectuals,2023,9283.3,53.25,188.94,4.66
+Professionals d'empresa i administració,OC24,Professionals científics i intel·lectuals,2024,9704.2,53.99,197.5,4.84
+Professionals d'empresa i administració,OC24,Professionals científics i intel·lectuals,2025,10107.4,54.25,205.71,5.01
+Professionals de les TIC,OC25,Professionals científics i intel·lectuals,2011,2377.2,15.65,100.0,1.29
+Professionals de les TIC,OC25,Professionals científics i intel·lectuals,2012,2429.1,16.39,102.18,1.33
+Professionals de les TIC,OC25,Professionals científics i intel·lectuals,2013,2510.6,16.88,105.61,1.38
+Professionals de les TIC,OC25,Professionals científics i intel·lectuals,2014,2594.8,15.65,109.15,1.41
+Professionals de les TIC,OC25,Professionals científics i intel·lectuals,2015,2716.1,15.43,114.26,1.46
+Professionals de les TIC,OC25,Professionals científics i intel·lectuals,2016,2902.8,16.43,122.11,1.54
+Professionals de les TIC,OC25,Professionals científics i intel·lectuals,2017,3097.3,16.64,130.29,1.62
+Professionals de les TIC,OC25,Professionals científics i intel·lectuals,2018,3287.7,16.76,138.3,1.7
+Professionals de les TIC,OC25,Professionals científics i intel·lectuals,2019,3579.5,17.62,150.58,1.84
+Professionals de les TIC,OC25,Professionals científics i intel·lectuals,2020,3870.3,18.48,162.81,2.02
+Professionals de les TIC,OC25,Professionals científics i intel·lectuals,2021,4296.8,18.63,180.75,2.23
+Professionals de les TIC,OC25,Professionals científics i intel·lectuals,2022,4610.0,18.53,193.93,2.34
+Professionals de les TIC,OC25,Professionals científics i intel·lectuals,2023,4921.2,19.1,207.02,2.47
+Professionals de les TIC,OC25,Professionals científics i intel·lectuals,2024,5261.3,19.32,221.32,2.62
+Professionals de les TIC,OC25,Professionals científics i intel·lectuals,2025,5423.0,19.2,228.13,2.69
+"Professionals del dret, socials i culturals",OC26,Professionals científics i intel·lectuals,2011,4586.1,54.44,100.0,2.5
+"Professionals del dret, socials i culturals",OC26,Professionals científics i intel·lectuals,2012,4626.6,55.94,100.88,2.53
+"Professionals del dret, socials i culturals",OC26,Professionals científics i intel·lectuals,2013,4615.5,55.94,100.64,2.54
+"Professionals del dret, socials i culturals",OC26,Professionals científics i intel·lectuals,2014,4729.0,56.77,103.12,2.57
+"Professionals del dret, socials i culturals",OC26,Professionals científics i intel·lectuals,2015,4918.8,57.75,107.25,2.65
+"Professionals del dret, socials i culturals",OC26,Professionals científics i intel·lectuals,2016,5079.7,58.36,110.76,2.7
+"Professionals del dret, socials i culturals",OC26,Professionals científics i intel·lectuals,2017,5206.3,58.32,113.52,2.73
+"Professionals del dret, socials i culturals",OC26,Professionals científics i intel·lectuals,2018,5350.0,58.29,116.66,2.77
+"Professionals del dret, socials i culturals",OC26,Professionals científics i intel·lectuals,2019,5483.2,59.08,119.56,2.81
+"Professionals del dret, socials i culturals",OC26,Professionals científics i intel·lectuals,2020,5505.8,60.13,120.05,2.87
+"Professionals del dret, socials i culturals",OC26,Professionals científics i intel·lectuals,2021,5691.3,61.68,124.1,2.96
+"Professionals del dret, socials i culturals",OC26,Professionals científics i intel·lectuals,2022,5810.8,61.86,126.7,2.95
+"Professionals del dret, socials i culturals",OC26,Professionals científics i intel·lectuals,2023,5872.7,62.3,128.05,2.95
+"Professionals del dret, socials i culturals",OC26,Professionals científics i intel·lectuals,2024,6084.1,63.09,132.66,3.03
+"Professionals del dret, socials i culturals",OC26,Professionals científics i intel·lectuals,2025,6196.4,63.11,135.11,3.07
+Tècnics de ciència i enginyeria,OC31,Tècnics i professionals de suport,2011,7328.9,15.5,100.0,3.99
+Tècnics de ciència i enginyeria,OC31,Tècnics i professionals de suport,2012,7307.9,15.22,99.71,4.0
+Tècnics de ciència i enginyeria,OC31,Tècnics i professionals de suport,2013,7234.4,15.48,98.71,3.98
+Tècnics de ciència i enginyeria,OC31,Tècnics i professionals de suport,2014,7252.4,15.72,98.96,3.95
+Tècnics de ciència i enginyeria,OC31,Tècnics i professionals de suport,2015,7243.7,16.12,98.84,3.9
+Tècnics de ciència i enginyeria,OC31,Tècnics i professionals de suport,2016,7353.5,16.5,100.34,3.9
+Tècnics de ciència i enginyeria,OC31,Tècnics i professionals de suport,2017,7498.0,16.52,102.31,3.92
+Tècnics de ciència i enginyeria,OC31,Tècnics i professionals de suport,2018,7609.7,17.04,103.83,3.95
+Tècnics de ciència i enginyeria,OC31,Tècnics i professionals de suport,2019,7727.9,16.99,105.44,3.97
+Tècnics de ciència i enginyeria,OC31,Tècnics i professionals de suport,2020,7497.7,18.1,102.3,3.91
+Tècnics de ciència i enginyeria,OC31,Tècnics i professionals de suport,2021,6820.6,19.66,93.06,3.54
+Tècnics de ciència i enginyeria,OC31,Tècnics i professionals de suport,2022,6847.5,19.92,93.43,3.48
+Tècnics de ciència i enginyeria,OC31,Tècnics i professionals de suport,2023,6908.1,20.0,94.26,3.47
+Tècnics de ciència i enginyeria,OC31,Tècnics i professionals de suport,2024,6957.7,19.32,94.94,3.47
+Tècnics de ciència i enginyeria,OC31,Tècnics i professionals de suport,2025,6917.7,19.37,94.39,3.43
+Tècnics de la salut,OC32,Tècnics i professionals de suport,2011,5089.1,79.76,100.0,2.77
+Tècnics de la salut,OC32,Tècnics i professionals de suport,2012,5332.7,79.66,104.79,2.92
+Tècnics de la salut,OC32,Tècnics i professionals de suport,2013,5398.6,79.38,106.08,2.97
+Tècnics de la salut,OC32,Tècnics i professionals de suport,2014,5565.7,79.48,109.37,3.03
+Tècnics de la salut,OC32,Tècnics i professionals de suport,2015,5679.8,79.86,111.61,3.06
+Tècnics de la salut,OC32,Tècnics i professionals de suport,2016,5766.5,79.34,113.31,3.06
+Tècnics de la salut,OC32,Tècnics i professionals de suport,2017,5892.0,79.46,115.78,3.08
+Tècnics de la salut,OC32,Tècnics i professionals de suport,2018,5920.7,79.07,116.34,3.07
+Tècnics de la salut,OC32,Tècnics i professionals de suport,2019,6031.2,78.73,118.51,3.1
+Tècnics de la salut,OC32,Tècnics i professionals de suport,2020,5926.2,78.65,116.45,3.09
+Tècnics de la salut,OC32,Tècnics i professionals de suport,2021,5984.4,78.64,117.59,3.11
+Tècnics de la salut,OC32,Tècnics i professionals de suport,2022,6039.0,78.21,118.67,3.07
+Tècnics de la salut,OC32,Tècnics i professionals de suport,2023,6176.5,78.19,121.37,3.1
+Tècnics de la salut,OC32,Tècnics i professionals de suport,2024,6225.8,78.14,122.34,3.1
+Tècnics de la salut,OC32,Tècnics i professionals de suport,2025,6205.6,78.22,121.94,3.08
+Tècnics d'empresa i administració,OC33,Tècnics i professionals de suport,2011,12657.9,55.05,100.0,6.89
+Tècnics d'empresa i administració,OC33,Tècnics i professionals de suport,2012,12586.3,55.06,99.43,6.89
+Tècnics d'empresa i administració,OC33,Tècnics i professionals de suport,2013,12360.7,55.23,97.65,6.8
+Tècnics d'empresa i administració,OC33,Tècnics i professionals de suport,2014,12345.1,55.37,97.53,6.72
+Tècnics d'empresa i administració,OC33,Tècnics i professionals de suport,2015,12584.6,54.98,99.42,6.78
+Tècnics d'empresa i administració,OC33,Tècnics i professionals de suport,2016,12837.1,55.42,101.42,6.81
+Tècnics d'empresa i administració,OC33,Tècnics i professionals de suport,2017,12970.6,55.27,102.47,6.79
+Tècnics d'empresa i administració,OC33,Tècnics i professionals de suport,2018,13048.5,55.79,103.09,6.77
+Tècnics d'empresa i administració,OC33,Tècnics i professionals de suport,2019,13220.7,55.93,104.45,6.79
+Tècnics d'empresa i administració,OC33,Tècnics i professionals de suport,2020,12785.9,54.89,101.01,6.67
+Tècnics d'empresa i administració,OC33,Tècnics i professionals de suport,2021,12870.8,55.1,101.68,6.68
+Tècnics d'empresa i administració,OC33,Tècnics i professionals de suport,2022,12959.6,55.26,102.38,6.58
+Tècnics d'empresa i administració,OC33,Tècnics i professionals de suport,2023,13131.3,55.37,103.74,6.6
+Tècnics d'empresa i administració,OC33,Tècnics i professionals de suport,2024,13261.7,55.89,104.77,6.61
+Tècnics d'empresa i administració,OC33,Tècnics i professionals de suport,2025,13374.5,56.07,105.66,6.63
+"Tècnics de serveis jurídics, socials i culturals",OC34,Tècnics i professionals de suport,2011,2871.4,62.84,100.0,1.56
+"Tècnics de serveis jurídics, socials i culturals",OC34,Tècnics i professionals de suport,2012,3087.6,64.29,107.53,1.69
+"Tècnics de serveis jurídics, socials i culturals",OC34,Tècnics i professionals de suport,2013,3349.9,65.13,116.66,1.84
+"Tècnics de serveis jurídics, socials i culturals",OC34,Tècnics i professionals de suport,2014,3627.0,65.95,126.31,1.97
+"Tècnics de serveis jurídics, socials i culturals",OC34,Tècnics i professionals de suport,2015,3767.4,65.22,131.2,2.03
+"Tècnics de serveis jurídics, socials i culturals",OC34,Tècnics i professionals de suport,2016,3853.5,65.15,134.2,2.05
+"Tècnics de serveis jurídics, socials i culturals",OC34,Tècnics i professionals de suport,2017,3860.1,65.57,134.43,2.02
+"Tècnics de serveis jurídics, socials i culturals",OC34,Tècnics i professionals de suport,2018,3937.7,65.45,137.14,2.04
+"Tècnics de serveis jurídics, socials i culturals",OC34,Tècnics i professionals de suport,2019,4056.2,65.31,141.26,2.08
+"Tècnics de serveis jurídics, socials i culturals",OC34,Tècnics i professionals de suport,2020,3213.9,59.73,111.93,1.68
+"Tècnics de serveis jurídics, socials i culturals",OC34,Tècnics i professionals de suport,2021,3325.0,61.53,115.8,1.73
+"Tècnics de serveis jurídics, socials i culturals",OC34,Tècnics i professionals de suport,2022,3508.4,60.35,122.18,1.78
+"Tècnics de serveis jurídics, socials i culturals",OC34,Tècnics i professionals de suport,2023,3580.4,59.42,124.69,1.8
+"Tècnics de serveis jurídics, socials i culturals",OC34,Tècnics i professionals de suport,2024,3691.6,59.04,128.56,1.84
+"Tècnics de serveis jurídics, socials i culturals",OC34,Tècnics i professionals de suport,2025,3845.7,59.46,133.93,1.91
+Tècnics de les TIC,OC35,Tècnics i professionals de suport,2011,1320.1,16.36,100.0,0.72
+Tècnics de les TIC,OC35,Tècnics i professionals de suport,2012,1412.0,16.69,106.96,0.77
+Tècnics de les TIC,OC35,Tècnics i professionals de suport,2013,1459.9,15.78,110.59,0.8
+Tècnics de les TIC,OC35,Tècnics i professionals de suport,2014,1469.6,15.81,111.32,0.8
+Tècnics de les TIC,OC35,Tècnics i professionals de suport,2015,1481.9,15.84,112.26,0.8
+Tècnics de les TIC,OC35,Tècnics i professionals de suport,2016,1546.1,16.38,117.12,0.82
+Tècnics de les TIC,OC35,Tècnics i professionals de suport,2017,1604.4,16.02,121.54,0.84
+Tècnics de les TIC,OC35,Tècnics i professionals de suport,2018,1720.9,15.61,130.36,0.89
+Tècnics de les TIC,OC35,Tècnics i professionals de suport,2019,1734.5,15.18,131.39,0.89
+Tècnics de les TIC,OC35,Tècnics i professionals de suport,2020,1848.8,15.56,140.05,0.96
+Tècnics de les TIC,OC35,Tècnics i professionals de suport,2021,1950.9,16.55,147.78,1.01
+Tècnics de les TIC,OC35,Tècnics i professionals de suport,2022,2034.7,15.87,154.13,1.03
+Tècnics de les TIC,OC35,Tècnics i professionals de suport,2023,2055.9,16.59,155.74,1.03
+Tècnics de les TIC,OC35,Tècnics i professionals de suport,2024,2067.2,16.67,156.59,1.03
+Tècnics de les TIC,OC35,Tècnics i professionals de suport,2025,2021.4,16.41,153.12,1.0
+Administratius generals i d'oficina,OC41,Personal administratiu,2011,6721.1,79.16,100.0,3.66
+Administratius generals i d'oficina,OC41,Personal administratiu,2012,5716.1,81.04,85.05,3.13
+Administratius generals i d'oficina,OC41,Personal administratiu,2013,5868.1,81.29,87.31,3.23
+Administratius generals i d'oficina,OC41,Personal administratiu,2014,6185.7,81.17,92.03,3.36
+Administratius generals i d'oficina,OC41,Personal administratiu,2015,6251.8,80.91,93.02,3.37
+Administratius generals i d'oficina,OC41,Personal administratiu,2016,6176.0,80.61,91.89,3.28
+Administratius generals i d'oficina,OC41,Personal administratiu,2017,6272.6,80.41,93.33,3.28
+Administratius generals i d'oficina,OC41,Personal administratiu,2018,6366.6,79.97,94.73,3.3
+Administratius generals i d'oficina,OC41,Personal administratiu,2019,6462.4,80.02,96.15,3.32
+Administratius generals i d'oficina,OC41,Personal administratiu,2020,7627.8,78.82,113.49,3.98
+Administratius generals i d'oficina,OC41,Personal administratiu,2021,8162.3,78.5,121.44,4.24
+Administratius generals i d'oficina,OC41,Personal administratiu,2022,8460.1,78.28,125.87,4.3
+Administratius generals i d'oficina,OC41,Personal administratiu,2023,8357.1,78.17,124.34,4.2
+Administratius generals i d'oficina,OC41,Personal administratiu,2024,8075.1,78.94,120.15,4.02
+Administratius generals i d'oficina,OC41,Personal administratiu,2025,7911.7,79.49,117.71,3.92
+Personal d'atenció al client,OC42,Personal administratiu,2011,3477.6,70.88,100.0,1.89
+Personal d'atenció al client,OC42,Personal administratiu,2012,3595.1,70.4,103.38,1.97
+Personal d'atenció al client,OC42,Personal administratiu,2013,3607.0,70.31,103.72,1.98
+Personal d'atenció al client,OC42,Personal administratiu,2014,3674.0,69.79,105.65,2.0
+Personal d'atenció al client,OC42,Personal administratiu,2015,3678.3,70.08,105.77,1.98
+Personal d'atenció al client,OC42,Personal administratiu,2016,3713.7,70.19,106.79,1.97
+Personal d'atenció al client,OC42,Personal administratiu,2017,3772.5,70.23,108.48,1.97
+Personal d'atenció al client,OC42,Personal administratiu,2018,3754.3,70.54,107.96,1.95
+Personal d'atenció al client,OC42,Personal administratiu,2019,3701.2,69.65,106.43,1.9
+Personal d'atenció al client,OC42,Personal administratiu,2020,3547.1,69.52,102.0,1.85
+Personal d'atenció al client,OC42,Personal administratiu,2021,3559.2,70.56,102.35,1.85
+Personal d'atenció al client,OC42,Personal administratiu,2022,3581.0,70.71,102.97,1.82
+Personal d'atenció al client,OC42,Personal administratiu,2023,3524.0,69.85,101.33,1.77
+Personal d'atenció al client,OC42,Personal administratiu,2024,3576.1,70.06,102.83,1.78
+Personal d'atenció al client,OC42,Personal administratiu,2025,3533.7,70.41,101.61,1.75
+Administratius de registre numèric i de materials,OC43,Personal administratiu,2011,5450.7,51.07,100.0,2.97
+Administratius de registre numèric i de materials,OC43,Personal administratiu,2012,6737.7,53.37,123.61,3.69
+Administratius de registre numèric i de materials,OC43,Personal administratiu,2013,6667.8,54.12,122.33,3.67
+Administratius de registre numèric i de materials,OC43,Personal administratiu,2014,6607.9,54.86,121.23,3.59
+Administratius de registre numèric i de materials,OC43,Personal administratiu,2015,6495.6,54.35,119.17,3.5
+Administratius de registre numèric i de materials,OC43,Personal administratiu,2016,6740.3,53.64,123.66,3.58
+Administratius de registre numèric i de materials,OC43,Personal administratiu,2017,6880.0,53.35,126.22,3.6
+Administratius de registre numèric i de materials,OC43,Personal administratiu,2018,6834.2,52.91,125.38,3.54
+Administratius de registre numèric i de materials,OC43,Personal administratiu,2019,6744.7,52.67,123.74,3.46
+Administratius de registre numèric i de materials,OC43,Personal administratiu,2020,5880.5,50.1,107.89,3.07
+Administratius de registre numèric i de materials,OC43,Personal administratiu,2021,5865.7,48.94,107.61,3.05
+Administratius de registre numèric i de materials,OC43,Personal administratiu,2022,6051.6,48.18,111.02,3.07
+Administratius de registre numèric i de materials,OC43,Personal administratiu,2023,6011.2,47.68,110.28,3.02
+Administratius de registre numèric i de materials,OC43,Personal administratiu,2024,6130.8,48.1,112.48,3.05
+Administratius de registre numèric i de materials,OC43,Personal administratiu,2025,6014.2,47.95,110.34,2.98
+Altre personal administratiu,OC44,Personal administratiu,2011,2615.0,65.74,100.0,1.42
+Altre personal administratiu,OC44,Personal administratiu,2012,2432.5,65.45,93.02,1.33
+Altre personal administratiu,OC44,Personal administratiu,2013,1963.7,63.12,75.09,1.08
+Altre personal administratiu,OC44,Personal administratiu,2014,1612.1,60.68,61.65,0.88
+Altre personal administratiu,OC44,Personal administratiu,2015,1617.7,59.71,61.86,0.87
+Altre personal administratiu,OC44,Personal administratiu,2016,1609.3,59.42,61.54,0.85
+Altre personal administratiu,OC44,Personal administratiu,2017,1595.0,59.63,60.99,0.83
+Altre personal administratiu,OC44,Personal administratiu,2018,1589.0,61.86,60.76,0.82
+Altre personal administratiu,OC44,Personal administratiu,2019,1601.9,61.05,61.26,0.82
+Altre personal administratiu,OC44,Personal administratiu,2020,1638.4,60.7,62.65,0.85
+Altre personal administratiu,OC44,Personal administratiu,2021,1665.5,59.95,63.69,0.86
+Altre personal administratiu,OC44,Personal administratiu,2022,1616.6,60.94,61.82,0.82
+Altre personal administratiu,OC44,Personal administratiu,2023,1601.9,61.35,61.26,0.8
+Altre personal administratiu,OC44,Personal administratiu,2024,1592.2,61.14,60.89,0.79
+Altre personal administratiu,OC44,Personal administratiu,2025,1573.9,60.97,60.19,0.78
+Treballadors de serveis personals,OC51,Treballadors de serveis i vendes,2011,8539.1,60.09,100.0,4.65
+Treballadors de serveis personals,OC51,Treballadors de serveis i vendes,2012,8454.6,58.31,99.01,4.63
+Treballadors de serveis personals,OC51,Treballadors de serveis i vendes,2013,8524.7,58.23,99.83,4.69
+Treballadors de serveis personals,OC51,Treballadors de serveis i vendes,2014,8705.1,57.97,101.94,4.74
+Treballadors de serveis personals,OC51,Treballadors de serveis i vendes,2015,8884.9,57.58,104.05,4.78
+Treballadors de serveis personals,OC51,Treballadors de serveis i vendes,2016,9137.3,57.63,107.01,4.85
+Treballadors de serveis personals,OC51,Treballadors de serveis i vendes,2017,9299.1,57.94,108.9,4.87
+Treballadors de serveis personals,OC51,Treballadors de serveis i vendes,2018,9477.0,57.78,110.98,4.91
+Treballadors de serveis personals,OC51,Treballadors de serveis i vendes,2019,9540.0,57.69,111.72,4.9
+Treballadors de serveis personals,OC51,Treballadors de serveis i vendes,2020,8608.3,57.93,100.81,4.49
+Treballadors de serveis personals,OC51,Treballadors de serveis i vendes,2021,7603.0,59.3,89.04,3.95
+Treballadors de serveis personals,OC51,Treballadors de serveis i vendes,2022,8406.5,59.03,98.45,4.27
+Treballadors de serveis personals,OC51,Treballadors de serveis i vendes,2023,8757.9,58.99,102.56,4.4
+Treballadors de serveis personals,OC51,Treballadors de serveis i vendes,2024,8901.3,58.64,104.24,4.44
+Treballadors de serveis personals,OC51,Treballadors de serveis i vendes,2025,8957.7,58.26,104.9,4.44
+Venedors,OC52,Treballadors de serveis i vendes,2011,13608.5,67.33,100.0,7.41
+Venedors,OC52,Treballadors de serveis i vendes,2012,13572.6,67.37,99.74,7.43
+Venedors,OC52,Treballadors de serveis i vendes,2013,13548.3,67.46,99.56,7.45
+Venedors,OC52,Treballadors de serveis i vendes,2014,13656.7,67.16,100.35,7.43
+Venedors,OC52,Treballadors de serveis i vendes,2015,13860.2,67.37,101.85,7.46
+Venedors,OC52,Treballadors de serveis i vendes,2016,13935.2,67.42,102.4,7.4
+Venedors,OC52,Treballadors de serveis i vendes,2017,13927.9,66.83,102.35,7.29
+Venedors,OC52,Treballadors de serveis i vendes,2018,13859.1,66.67,101.84,7.19
+Venedors,OC52,Treballadors de serveis i vendes,2019,13801.3,66.41,101.42,7.09
+Venedors,OC52,Treballadors de serveis i vendes,2020,12883.9,66.84,94.68,6.72
+Venedors,OC52,Treballadors de serveis i vendes,2021,13119.7,66.14,96.41,6.81
+Venedors,OC52,Treballadors de serveis i vendes,2022,13481.5,66.0,99.07,6.85
+Venedors,OC52,Treballadors de serveis i vendes,2023,13535.1,65.99,99.46,6.8
+Venedors,OC52,Treballadors de serveis i vendes,2024,13434.8,65.93,98.72,6.69
+Venedors,OC52,Treballadors de serveis i vendes,2025,13434.3,65.53,98.72,6.66
+Treballadors de cura personal,OC53,Treballadors de serveis i vendes,2011,5651.7,89.67,100.0,3.08
+Treballadors de cura personal,OC53,Treballadors de serveis i vendes,2012,5597.9,89.41,99.05,3.06
+Treballadors de cura personal,OC53,Treballadors de serveis i vendes,2013,5362.3,89.77,94.88,2.95
+Treballadors de cura personal,OC53,Treballadors de serveis i vendes,2014,5214.7,89.51,92.27,2.84
+Treballadors de cura personal,OC53,Treballadors de serveis i vendes,2015,5217.6,89.35,92.32,2.81
+Treballadors de cura personal,OC53,Treballadors de serveis i vendes,2016,5341.8,89.07,94.52,2.83
+Treballadors de cura personal,OC53,Treballadors de serveis i vendes,2017,5511.7,89.27,97.52,2.89
+Treballadors de cura personal,OC53,Treballadors de serveis i vendes,2018,5718.4,89.27,101.18,2.97
+Treballadors de cura personal,OC53,Treballadors de serveis i vendes,2019,5912.0,88.93,104.61,3.03
+Treballadors de cura personal,OC53,Treballadors de serveis i vendes,2020,5756.1,88.6,101.85,3.0
+Treballadors de cura personal,OC53,Treballadors de serveis i vendes,2021,6061.5,87.84,107.25,3.15
+Treballadors de cura personal,OC53,Treballadors de serveis i vendes,2022,6244.3,87.63,110.49,3.17
+Treballadors de cura personal,OC53,Treballadors de serveis i vendes,2023,6433.0,87.66,113.82,3.23
+Treballadors de cura personal,OC53,Treballadors de serveis i vendes,2024,6605.3,87.28,116.87,3.29
+Treballadors de cura personal,OC53,Treballadors de serveis i vendes,2025,6663.9,87.39,117.91,3.31
+Personal de serveis de protecció i seguretat,OC54,Treballadors de serveis i vendes,2011,2978.5,13.06,100.0,1.62
+Personal de serveis de protecció i seguretat,OC54,Treballadors de serveis i vendes,2012,2883.4,13.18,96.81,1.58
+Personal de serveis de protecció i seguretat,OC54,Treballadors de serveis i vendes,2013,2955.7,13.39,99.23,1.63
+Personal de serveis de protecció i seguretat,OC54,Treballadors de serveis i vendes,2014,2993.3,13.76,100.5,1.63
+Personal de serveis de protecció i seguretat,OC54,Treballadors de serveis i vendes,2015,2962.8,13.53,99.47,1.6
+Personal de serveis de protecció i seguretat,OC54,Treballadors de serveis i vendes,2016,2986.4,13.96,100.27,1.58
+Personal de serveis de protecció i seguretat,OC54,Treballadors de serveis i vendes,2017,2972.9,13.92,99.81,1.56
+Personal de serveis de protecció i seguretat,OC54,Treballadors de serveis i vendes,2018,3005.8,14.91,100.92,1.56
+Personal de serveis de protecció i seguretat,OC54,Treballadors de serveis i vendes,2019,2969.8,14.92,99.71,1.52
+Personal de serveis de protecció i seguretat,OC54,Treballadors de serveis i vendes,2020,3113.3,15.82,104.53,1.62
+Personal de serveis de protecció i seguretat,OC54,Treballadors de serveis i vendes,2021,3233.1,16.2,108.55,1.68
+Personal de serveis de protecció i seguretat,OC54,Treballadors de serveis i vendes,2022,3180.5,16.89,106.78,1.61
+Personal de serveis de protecció i seguretat,OC54,Treballadors de serveis i vendes,2023,3121.7,17.34,104.81,1.57
+Personal de serveis de protecció i seguretat,OC54,Treballadors de serveis i vendes,2024,3133.6,17.33,105.21,1.56
+Personal de serveis de protecció i seguretat,OC54,Treballadors de serveis i vendes,2025,3149.8,17.63,105.75,1.56
+Agricultors i ramaders de mercat,OC61,"Treballadors qualificats agrícoles, forestals i pesquers",2011,6964.3,36.65,100.0,3.79
+Agricultors i ramaders de mercat,OC61,"Treballadors qualificats agrícoles, forestals i pesquers",2012,6863.6,36.32,98.55,3.76
+Agricultors i ramaders de mercat,OC61,"Treballadors qualificats agrícoles, forestals i pesquers",2013,6803.7,35.44,97.69,3.74
+Agricultors i ramaders de mercat,OC61,"Treballadors qualificats agrícoles, forestals i pesquers",2014,6803.9,34.91,97.7,3.7
+Agricultors i ramaders de mercat,OC61,"Treballadors qualificats agrícoles, forestals i pesquers",2015,6610.5,33.99,94.92,3.56
+Agricultors i ramaders de mercat,OC61,"Treballadors qualificats agrícoles, forestals i pesquers",2016,6309.2,33.18,90.59,3.35
+Agricultors i ramaders de mercat,OC61,"Treballadors qualificats agrícoles, forestals i pesquers",2017,6200.3,33.29,89.03,3.25
+Agricultors i ramaders de mercat,OC61,"Treballadors qualificats agrícoles, forestals i pesquers",2018,6039.2,33.01,86.72,3.13
+Agricultors i ramaders de mercat,OC61,"Treballadors qualificats agrícoles, forestals i pesquers",2019,5662.1,32.19,81.3,2.91
+Agricultors i ramaders de mercat,OC61,"Treballadors qualificats agrícoles, forestals i pesquers",2020,5413.1,31.75,77.73,2.82
+Agricultors i ramaders de mercat,OC61,"Treballadors qualificats agrícoles, forestals i pesquers",2021,5144.9,30.05,73.88,2.67
+Agricultors i ramaders de mercat,OC61,"Treballadors qualificats agrícoles, forestals i pesquers",2022,5158.8,30.22,74.07,2.62
+Agricultors i ramaders de mercat,OC61,"Treballadors qualificats agrícoles, forestals i pesquers",2023,5052.8,30.09,72.55,2.54
+Agricultors i ramaders de mercat,OC61,"Treballadors qualificats agrícoles, forestals i pesquers",2024,4737.3,29.21,68.02,2.36
+Agricultors i ramaders de mercat,OC61,"Treballadors qualificats agrícoles, forestals i pesquers",2025,4523.2,28.55,64.95,2.24
+"Treballadors forestals, pescadors i caçadors de mercat",OC62,"Treballadors qualificats agrícoles, forestals i pesquers",2011,323.0,8.2,100.0,0.18
+"Treballadors forestals, pescadors i caçadors de mercat",OC62,"Treballadors qualificats agrícoles, forestals i pesquers",2012,321.5,7.9,99.54,0.18
+"Treballadors forestals, pescadors i caçadors de mercat",OC62,"Treballadors qualificats agrícoles, forestals i pesquers",2013,322.8,8.05,99.94,0.18
+"Treballadors forestals, pescadors i caçadors de mercat",OC62,"Treballadors qualificats agrícoles, forestals i pesquers",2014,327.9,6.49,101.52,0.18
+"Treballadors forestals, pescadors i caçadors de mercat",OC62,"Treballadors qualificats agrícoles, forestals i pesquers",2015,318.3,5.47,98.54,0.17
+"Treballadors forestals, pescadors i caçadors de mercat",OC62,"Treballadors qualificats agrícoles, forestals i pesquers",2016,301.5,6.24,93.34,0.16
+"Treballadors forestals, pescadors i caçadors de mercat",OC62,"Treballadors qualificats agrícoles, forestals i pesquers",2017,301.2,6.24,93.25,0.16
+"Treballadors forestals, pescadors i caçadors de mercat",OC62,"Treballadors qualificats agrícoles, forestals i pesquers",2018,277.5,5.91,85.91,0.14
+"Treballadors forestals, pescadors i caçadors de mercat",OC62,"Treballadors qualificats agrícoles, forestals i pesquers",2019,276.3,6.04,85.54,0.14
+"Treballadors forestals, pescadors i caçadors de mercat",OC62,"Treballadors qualificats agrícoles, forestals i pesquers",2021,281.0,7.37,87.0,0.15
+"Treballadors forestals, pescadors i caçadors de mercat",OC62,"Treballadors qualificats agrícoles, forestals i pesquers",2022,281.5,6.5,87.15,0.14
+"Treballadors forestals, pescadors i caçadors de mercat",OC62,"Treballadors qualificats agrícoles, forestals i pesquers",2023,268.1,7.68,83.0,0.13
+"Treballadors forestals, pescadors i caçadors de mercat",OC62,"Treballadors qualificats agrícoles, forestals i pesquers",2024,246.5,7.34,76.32,0.12
+"Treballadors forestals, pescadors i caçadors de mercat",OC62,"Treballadors qualificats agrícoles, forestals i pesquers",2025,254.4,6.61,78.76,0.13
+Agricultors i pescadors d'autoconsum,OC63,"Treballadors qualificats agrícoles, forestals i pesquers",2011,431.2,51.95,100.0,0.23
+Agricultors i pescadors d'autoconsum,OC63,"Treballadors qualificats agrícoles, forestals i pesquers",2012,413.8,50.27,95.96,0.23
+Agricultors i pescadors d'autoconsum,OC63,"Treballadors qualificats agrícoles, forestals i pesquers",2013,358.9,49.07,83.23,0.2
+Agricultors i pescadors d'autoconsum,OC63,"Treballadors qualificats agrícoles, forestals i pesquers",2014,286.2,47.27,66.37,0.16
+Agricultors i pescadors d'autoconsum,OC63,"Treballadors qualificats agrícoles, forestals i pesquers",2015,304.7,46.98,70.66,0.16
+Agricultors i pescadors d'autoconsum,OC63,"Treballadors qualificats agrícoles, forestals i pesquers",2016,266.7,45.93,61.85,0.14
+Agricultors i pescadors d'autoconsum,OC63,"Treballadors qualificats agrícoles, forestals i pesquers",2017,213.2,48.5,49.44,0.11
+Agricultors i pescadors d'autoconsum,OC63,"Treballadors qualificats agrícoles, forestals i pesquers",2018,181.9,47.97,42.18,0.09
+Agricultors i pescadors d'autoconsum,OC63,"Treballadors qualificats agrícoles, forestals i pesquers",2019,476.4,43.64,110.48,0.24
+Agricultors i pescadors d'autoconsum,OC63,"Treballadors qualificats agrícoles, forestals i pesquers",2020,616.7,41.35,143.02,0.32
+Treballadors de la construcció (excepte electricistes),OC71,Artesans i treballadors d'oficis,2011,7960.7,2.16,100.0,4.34
+Treballadors de la construcció (excepte electricistes),OC71,Artesans i treballadors d'oficis,2012,7614.5,2.57,95.65,4.17
+Treballadors de la construcció (excepte electricistes),OC71,Artesans i treballadors d'oficis,2013,7254.3,2.72,91.13,3.99
+Treballadors de la construcció (excepte electricistes),OC71,Artesans i treballadors d'oficis,2014,7241.7,2.83,90.97,3.94
+Treballadors de la construcció (excepte electricistes),OC71,Artesans i treballadors d'oficis,2015,7393.9,2.67,92.88,3.98
+Treballadors de la construcció (excepte electricistes),OC71,Artesans i treballadors d'oficis,2016,7460.8,2.93,93.72,3.96
+Treballadors de la construcció (excepte electricistes),OC71,Artesans i treballadors d'oficis,2017,7547.8,2.86,94.81,3.95
+Treballadors de la construcció (excepte electricistes),OC71,Artesans i treballadors d'oficis,2018,7553.0,2.75,94.88,3.92
+Treballadors de la construcció (excepte electricistes),OC71,Artesans i treballadors d'oficis,2019,7632.6,2.81,95.88,3.92
+Treballadors de la construcció (excepte electricistes),OC71,Artesans i treballadors d'oficis,2020,7201.3,2.13,90.46,3.76
+Treballadors de la construcció (excepte electricistes),OC71,Artesans i treballadors d'oficis,2021,7476.0,2.15,93.91,3.88
+Treballadors de la construcció (excepte electricistes),OC71,Artesans i treballadors d'oficis,2022,7621.2,2.08,95.74,3.87
+Treballadors de la construcció (excepte electricistes),OC71,Artesans i treballadors d'oficis,2023,7598.8,2.15,95.45,3.82
+Treballadors de la construcció (excepte electricistes),OC71,Artesans i treballadors d'oficis,2024,7594.9,1.97,95.4,3.78
+Treballadors de la construcció (excepte electricistes),OC71,Artesans i treballadors d'oficis,2025,7528.6,2.35,94.57,3.73
+Treballadors del metall i la maquinària,OC72,Artesans i treballadors d'oficis,2011,7485.3,3.92,100.0,4.08
+Treballadors del metall i la maquinària,OC72,Artesans i treballadors d'oficis,2012,7456.1,4.26,99.61,4.08
+Treballadors del metall i la maquinària,OC72,Artesans i treballadors d'oficis,2013,7225.2,4.03,96.53,3.97
+Treballadors del metall i la maquinària,OC72,Artesans i treballadors d'oficis,2014,7265.8,4.04,97.07,3.95
+Treballadors del metall i la maquinària,OC72,Artesans i treballadors d'oficis,2015,7277.5,4.23,97.22,3.92
+Treballadors del metall i la maquinària,OC72,Artesans i treballadors d'oficis,2016,7402.7,4.42,98.9,3.93
+Treballadors del metall i la maquinària,OC72,Artesans i treballadors d'oficis,2017,7450.6,4.36,99.54,3.9
+Treballadors del metall i la maquinària,OC72,Artesans i treballadors d'oficis,2018,7488.0,4.49,100.04,3.88
+Treballadors del metall i la maquinària,OC72,Artesans i treballadors d'oficis,2019,7464.0,4.7,99.72,3.83
+Treballadors del metall i la maquinària,OC72,Artesans i treballadors d'oficis,2020,7352.6,4.23,98.23,3.84
+Treballadors del metall i la maquinària,OC72,Artesans i treballadors d'oficis,2021,7388.1,4.23,98.7,3.84
+Treballadors del metall i la maquinària,OC72,Artesans i treballadors d'oficis,2022,7356.7,4.18,98.28,3.74
+Treballadors del metall i la maquinària,OC72,Artesans i treballadors d'oficis,2023,7320.8,4.21,97.8,3.68
+Treballadors del metall i la maquinària,OC72,Artesans i treballadors d'oficis,2024,7351.7,4.32,98.22,3.66
+Treballadors del metall i la maquinària,OC72,Artesans i treballadors d'oficis,2025,7446.7,4.42,99.48,3.69
+Artesans i treballadors de les arts gràfiques,OC73,Artesans i treballadors d'oficis,2011,1050.7,31.46,100.0,0.57
+Artesans i treballadors de les arts gràfiques,OC73,Artesans i treballadors d'oficis,2012,1052.4,32.14,100.16,0.58
+Artesans i treballadors de les arts gràfiques,OC73,Artesans i treballadors d'oficis,2013,1060.6,31.12,100.94,0.58
+Artesans i treballadors de les arts gràfiques,OC73,Artesans i treballadors d'oficis,2014,1082.3,31.04,103.01,0.59
+Artesans i treballadors de les arts gràfiques,OC73,Artesans i treballadors d'oficis,2015,1037.1,31.39,98.71,0.56
+Artesans i treballadors de les arts gràfiques,OC73,Artesans i treballadors d'oficis,2016,1012.2,32.28,96.34,0.54
+Artesans i treballadors de les arts gràfiques,OC73,Artesans i treballadors d'oficis,2017,1032.4,32.51,98.26,0.54
+Artesans i treballadors de les arts gràfiques,OC73,Artesans i treballadors d'oficis,2018,1025.6,32.99,97.61,0.53
+Artesans i treballadors de les arts gràfiques,OC73,Artesans i treballadors d'oficis,2019,992.0,32.95,94.41,0.51
+Artesans i treballadors de les arts gràfiques,OC73,Artesans i treballadors d'oficis,2020,934.9,34.32,88.98,0.49
+Artesans i treballadors de les arts gràfiques,OC73,Artesans i treballadors d'oficis,2021,905.7,34.85,86.2,0.47
+Artesans i treballadors de les arts gràfiques,OC73,Artesans i treballadors d'oficis,2022,923.9,35.69,87.93,0.47
+Artesans i treballadors de les arts gràfiques,OC73,Artesans i treballadors d'oficis,2023,904.6,34.92,86.09,0.45
+Artesans i treballadors de les arts gràfiques,OC73,Artesans i treballadors d'oficis,2024,910.4,34.96,86.65,0.45
+Artesans i treballadors de les arts gràfiques,OC73,Artesans i treballadors d'oficis,2025,916.4,34.65,87.22,0.45
+Electricistes i electrònics,OC74,Artesans i treballadors d'oficis,2011,2889.6,3.62,100.0,1.57
+Electricistes i electrònics,OC74,Artesans i treballadors d'oficis,2012,3032.1,4.09,104.93,1.66
+Electricistes i electrònics,OC74,Artesans i treballadors d'oficis,2013,3047.3,3.91,105.46,1.68
+Electricistes i electrònics,OC74,Artesans i treballadors d'oficis,2014,3039.5,4.02,105.19,1.65
+Electricistes i electrònics,OC74,Artesans i treballadors d'oficis,2015,3045.4,3.88,105.39,1.64
+Electricistes i electrònics,OC74,Artesans i treballadors d'oficis,2016,3096.8,4.0,107.17,1.64
+Electricistes i electrònics,OC74,Artesans i treballadors d'oficis,2017,3135.2,4.05,108.5,1.64
+Electricistes i electrònics,OC74,Artesans i treballadors d'oficis,2018,3176.8,3.98,109.94,1.65
+Electricistes i electrònics,OC74,Artesans i treballadors d'oficis,2019,3142.8,3.91,108.76,1.61
+Electricistes i electrònics,OC74,Artesans i treballadors d'oficis,2020,2913.9,4.07,100.84,1.52
+Electricistes i electrònics,OC74,Artesans i treballadors d'oficis,2021,3012.8,4.47,104.26,1.56
+Electricistes i electrònics,OC74,Artesans i treballadors d'oficis,2022,3067.1,4.41,106.14,1.56
+Electricistes i electrònics,OC74,Artesans i treballadors d'oficis,2023,3032.8,4.43,104.96,1.52
+Electricistes i electrònics,OC74,Artesans i treballadors d'oficis,2024,3094.7,4.41,107.1,1.54
+Electricistes i electrònics,OC74,Artesans i treballadors d'oficis,2025,3156.6,4.02,109.24,1.57
+"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",OC75,Artesans i treballadors d'oficis,2011,4108.5,39.05,100.0,2.24
+"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",OC75,Artesans i treballadors d'oficis,2012,4006.9,39.02,97.53,2.19
+"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",OC75,Artesans i treballadors d'oficis,2013,3939.1,38.71,95.88,2.17
+"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",OC75,Artesans i treballadors d'oficis,2014,4092.6,38.69,99.61,2.23
+"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",OC75,Artesans i treballadors d'oficis,2015,4066.7,38.48,98.98,2.19
+"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",OC75,Artesans i treballadors d'oficis,2016,4044.2,38.53,98.43,2.15
+"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",OC75,Artesans i treballadors d'oficis,2017,4085.6,39.44,99.44,2.14
+"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",OC75,Artesans i treballadors d'oficis,2018,4020.2,39.09,97.85,2.08
+"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",OC75,Artesans i treballadors d'oficis,2019,4001.5,40.07,97.4,2.05
+"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",OC75,Artesans i treballadors d'oficis,2020,3852.4,39.43,93.77,2.01
+"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",OC75,Artesans i treballadors d'oficis,2021,3808.8,40.0,92.71,1.98
+"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",OC75,Artesans i treballadors d'oficis,2022,3847.4,40.39,93.64,1.95
+"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",OC75,Artesans i treballadors d'oficis,2023,3845.4,40.41,93.6,1.93
+"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",OC75,Artesans i treballadors d'oficis,2024,3752.1,39.92,91.33,1.87
+"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",OC75,Artesans i treballadors d'oficis,2025,3742.3,40.02,91.09,1.86
+Operadors d'instal·lacions fixes i maquinària,OC81,Operadors d'instal·lacions i maquinària i muntadors,2011,4908.5,32.29,100.0,2.67
+Operadors d'instal·lacions fixes i maquinària,OC81,Operadors d'instal·lacions i maquinària i muntadors,2012,4780.7,32.32,97.4,2.62
+Operadors d'instal·lacions fixes i maquinària,OC81,Operadors d'instal·lacions i maquinària i muntadors,2013,4778.9,33.61,97.36,2.63
+Operadors d'instal·lacions fixes i maquinària,OC81,Operadors d'instal·lacions i maquinària i muntadors,2014,4882.7,33.41,99.47,2.66
+Operadors d'instal·lacions fixes i maquinària,OC81,Operadors d'instal·lacions i maquinària i muntadors,2015,4967.5,33.51,101.2,2.67
+Operadors d'instal·lacions fixes i maquinària,OC81,Operadors d'instal·lacions i maquinària i muntadors,2016,5021.7,33.56,102.31,2.67
+Operadors d'instal·lacions fixes i maquinària,OC81,Operadors d'instal·lacions i maquinària i muntadors,2017,5174.0,33.97,105.41,2.71
+Operadors d'instal·lacions fixes i maquinària,OC81,Operadors d'instal·lacions i maquinària i muntadors,2018,5141.7,33.92,104.75,2.67
+Operadors d'instal·lacions fixes i maquinària,OC81,Operadors d'instal·lacions i maquinària i muntadors,2019,5048.2,32.98,102.85,2.59
+Operadors d'instal·lacions fixes i maquinària,OC81,Operadors d'instal·lacions i maquinària i muntadors,2020,4930.7,32.78,100.45,2.57
+Operadors d'instal·lacions fixes i maquinària,OC81,Operadors d'instal·lacions i maquinària i muntadors,2021,4858.3,33.08,98.98,2.52
+Operadors d'instal·lacions fixes i maquinària,OC81,Operadors d'instal·lacions i maquinària i muntadors,2022,4979.4,33.41,101.44,2.53
+Operadors d'instal·lacions fixes i maquinària,OC81,Operadors d'instal·lacions i maquinària i muntadors,2023,4807.7,33.45,97.95,2.42
+Operadors d'instal·lacions fixes i maquinària,OC81,Operadors d'instal·lacions i maquinària i muntadors,2024,4660.1,32.66,94.94,2.32
+Operadors d'instal·lacions fixes i maquinària,OC81,Operadors d'instal·lacions i maquinària i muntadors,2025,4395.3,32.79,89.54,2.18
+Muntadors,OC82,Operadors d'instal·lacions i maquinària i muntadors,2011,1556.7,41.6,100.0,0.85
+Muntadors,OC82,Operadors d'instal·lacions i maquinària i muntadors,2012,1554.1,40.18,99.83,0.85
+Muntadors,OC82,Operadors d'instal·lacions i maquinària i muntadors,2013,1548.5,39.3,99.47,0.85
+Muntadors,OC82,Operadors d'instal·lacions i maquinària i muntadors,2014,1648.1,38.18,105.87,0.9
+Muntadors,OC82,Operadors d'instal·lacions i maquinària i muntadors,2015,1663.3,38.02,106.85,0.9
+Muntadors,OC82,Operadors d'instal·lacions i maquinària i muntadors,2016,1690.2,38.23,108.58,0.9
+Muntadors,OC82,Operadors d'instal·lacions i maquinària i muntadors,2017,1767.2,39.27,113.52,0.93
+Muntadors,OC82,Operadors d'instal·lacions i maquinària i muntadors,2018,1831.6,38.39,117.66,0.95
+Muntadors,OC82,Operadors d'instal·lacions i maquinària i muntadors,2019,1829.8,37.15,117.54,0.94
+Muntadors,OC82,Operadors d'instal·lacions i maquinària i muntadors,2020,1734.0,36.87,111.39,0.9
+Muntadors,OC82,Operadors d'instal·lacions i maquinària i muntadors,2021,1770.6,38.77,113.74,0.92
+Muntadors,OC82,Operadors d'instal·lacions i maquinària i muntadors,2022,1810.5,37.99,116.3,0.92
+Muntadors,OC82,Operadors d'instal·lacions i maquinària i muntadors,2023,1719.4,37.03,110.45,0.86
+Muntadors,OC82,Operadors d'instal·lacions i maquinària i muntadors,2024,1632.6,37.47,104.88,0.81
+Muntadors,OC82,Operadors d'instal·lacions i maquinària i muntadors,2025,1440.4,37.84,92.53,0.71
+Conductors i operadors de maquinària mòbil,OC83,Operadors d'instal·lacions i maquinària i muntadors,2011,8027.8,4.29,100.0,4.37
+Conductors i operadors de maquinària mòbil,OC83,Operadors d'instal·lacions i maquinària i muntadors,2012,7820.0,4.33,97.41,4.28
+Conductors i operadors de maquinària mòbil,OC83,Operadors d'instal·lacions i maquinària i muntadors,2013,7738.1,4.26,96.39,4.26
+Conductors i operadors de maquinària mòbil,OC83,Operadors d'instal·lacions i maquinària i muntadors,2014,7778.8,4.12,96.9,4.23
+Conductors i operadors de maquinària mòbil,OC83,Operadors d'instal·lacions i maquinària i muntadors,2015,7792.4,4.18,97.07,4.2
+Conductors i operadors de maquinària mòbil,OC83,Operadors d'instal·lacions i maquinària i muntadors,2016,7972.7,4.24,99.31,4.23
+Conductors i operadors de maquinària mòbil,OC83,Operadors d'instal·lacions i maquinària i muntadors,2017,8115.8,4.36,101.1,4.25
+Conductors i operadors de maquinària mòbil,OC83,Operadors d'instal·lacions i maquinària i muntadors,2018,8253.2,4.32,102.81,4.28
+Conductors i operadors de maquinària mòbil,OC83,Operadors d'instal·lacions i maquinària i muntadors,2019,8309.6,4.55,103.51,4.27
+Conductors i operadors de maquinària mòbil,OC83,Operadors d'instal·lacions i maquinària i muntadors,2020,7899.9,4.45,98.41,4.12
+Conductors i operadors de maquinària mòbil,OC83,Operadors d'instal·lacions i maquinària i muntadors,2021,8010.1,4.57,99.78,4.16
+Conductors i operadors de maquinària mòbil,OC83,Operadors d'instal·lacions i maquinària i muntadors,2022,8210.2,4.68,102.27,4.17
+Conductors i operadors de maquinària mòbil,OC83,Operadors d'instal·lacions i maquinària i muntadors,2023,8299.5,5.01,103.38,4.17
+Conductors i operadors de maquinària mòbil,OC83,Operadors d'instal·lacions i maquinària i muntadors,2024,8298.9,5.15,103.38,4.14
+Conductors i operadors de maquinària mòbil,OC83,Operadors d'instal·lacions i maquinària i muntadors,2025,8322.3,5.2,103.67,4.13
+Personal de neteja i ajudants,OC91,Ocupacions elementals,2011,7109.7,86.14,100.0,3.87
+Personal de neteja i ajudants,OC91,Ocupacions elementals,2012,7081.7,86.33,99.61,3.88
+Personal de neteja i ajudants,OC91,Ocupacions elementals,2013,7122.6,86.42,100.18,3.92
+Personal de neteja i ajudants,OC91,Ocupacions elementals,2014,7275.7,86.22,102.33,3.96
+Personal de neteja i ajudants,OC91,Ocupacions elementals,2015,7335.0,85.78,103.17,3.95
+Personal de neteja i ajudants,OC91,Ocupacions elementals,2016,7250.5,85.46,101.98,3.85
+Personal de neteja i ajudants,OC91,Ocupacions elementals,2017,7254.7,85.2,102.04,3.8
+Personal de neteja i ajudants,OC91,Ocupacions elementals,2018,7171.6,85.11,100.87,3.72
+Personal de neteja i ajudants,OC91,Ocupacions elementals,2019,7091.9,84.8,99.75,3.64
+Personal de neteja i ajudants,OC91,Ocupacions elementals,2020,6569.0,84.34,92.39,3.43
+Personal de neteja i ajudants,OC91,Ocupacions elementals,2021,6276.4,84.5,88.28,3.26
+Personal de neteja i ajudants,OC91,Ocupacions elementals,2022,6376.1,84.28,89.68,3.24
+Personal de neteja i ajudants,OC91,Ocupacions elementals,2023,6344.6,84.33,89.24,3.19
+Personal de neteja i ajudants,OC91,Ocupacions elementals,2024,6261.9,84.25,88.08,3.12
+Personal de neteja i ajudants,OC91,Ocupacions elementals,2025,6397.5,83.68,89.98,3.17
+"Peons agrícoles, forestals i pesquers",OC92,Ocupacions elementals,2011,1596.9,36.81,100.0,0.87
+"Peons agrícoles, forestals i pesquers",OC92,Ocupacions elementals,2012,1647.3,35.97,103.16,0.9
+"Peons agrícoles, forestals i pesquers",OC92,Ocupacions elementals,2013,1593.0,34.31,99.76,0.88
+"Peons agrícoles, forestals i pesquers",OC92,Ocupacions elementals,2014,1564.4,34.05,97.96,0.85
+"Peons agrícoles, forestals i pesquers",OC92,Ocupacions elementals,2015,1545.9,31.74,96.81,0.83
+"Peons agrícoles, forestals i pesquers",OC92,Ocupacions elementals,2016,1525.9,30.45,95.55,0.81
+"Peons agrícoles, forestals i pesquers",OC92,Ocupacions elementals,2017,1532.3,30.1,95.95,0.8
+"Peons agrícoles, forestals i pesquers",OC92,Ocupacions elementals,2018,1510.7,30.64,94.6,0.78
+"Peons agrícoles, forestals i pesquers",OC92,Ocupacions elementals,2019,1401.3,29.81,87.75,0.72
+"Peons agrícoles, forestals i pesquers",OC92,Ocupacions elementals,2020,1359.1,29.53,85.11,0.71
+"Peons agrícoles, forestals i pesquers",OC92,Ocupacions elementals,2021,1545.4,28.7,96.78,0.8
+"Peons agrícoles, forestals i pesquers",OC92,Ocupacions elementals,2022,1480.9,28.92,92.74,0.75
+"Peons agrícoles, forestals i pesquers",OC92,Ocupacions elementals,2023,1495.9,29.03,93.68,0.75
+"Peons agrícoles, forestals i pesquers",OC92,Ocupacions elementals,2024,1442.4,28.75,90.33,0.72
+"Peons agrícoles, forestals i pesquers",OC92,Ocupacions elementals,2025,1405.6,25.7,88.02,0.7
+"Peons de mineria, construcció, indústria i transports",OC93,Ocupacions elementals,2011,5354.6,28.84,100.0,2.92
+"Peons de mineria, construcció, indústria i transports",OC93,Ocupacions elementals,2012,4997.8,29.38,93.34,2.74
+"Peons de mineria, construcció, indústria i transports",OC93,Ocupacions elementals,2013,4894.4,29.13,91.41,2.69
+"Peons de mineria, construcció, indústria i transports",OC93,Ocupacions elementals,2014,4859.5,29.46,90.75,2.64
+"Peons de mineria, construcció, indústria i transports",OC93,Ocupacions elementals,2015,4905.5,29.06,91.61,2.64
+"Peons de mineria, construcció, indústria i transports",OC93,Ocupacions elementals,2016,5028.4,29.06,93.91,2.67
+"Peons de mineria, construcció, indústria i transports",OC93,Ocupacions elementals,2017,5140.9,29.02,96.01,2.69
+"Peons de mineria, construcció, indústria i transports",OC93,Ocupacions elementals,2018,5222.3,28.89,97.53,2.71
+"Peons de mineria, construcció, indústria i transports",OC93,Ocupacions elementals,2019,5334.8,28.64,99.63,2.74
+"Peons de mineria, construcció, indústria i transports",OC93,Ocupacions elementals,2020,5008.2,28.47,93.53,2.61
+"Peons de mineria, construcció, indústria i transports",OC93,Ocupacions elementals,2021,5265.0,28.68,98.33,2.73
+"Peons de mineria, construcció, indústria i transports",OC93,Ocupacions elementals,2022,5361.2,29.5,100.12,2.72
+"Peons de mineria, construcció, indústria i transports",OC93,Ocupacions elementals,2023,5344.4,29.35,99.81,2.69
+"Peons de mineria, construcció, indústria i transports",OC93,Ocupacions elementals,2024,5238.3,29.59,97.83,2.61
+"Peons de mineria, construcció, indústria i transports",OC93,Ocupacions elementals,2025,5239.9,28.53,97.86,2.6
+Ajudants de preparació d'aliments,OC94,Ocupacions elementals,2011,1041.6,73.44,100.0,0.57
+Ajudants de preparació d'aliments,OC94,Ocupacions elementals,2012,1109.4,71.62,106.51,0.61
+Ajudants de preparació d'aliments,OC94,Ocupacions elementals,2013,1179.0,70.83,113.19,0.65
+Ajudants de preparació d'aliments,OC94,Ocupacions elementals,2014,1211.3,71.12,116.29,0.66
+Ajudants de preparació d'aliments,OC94,Ocupacions elementals,2015,1274.1,69.81,122.32,0.69
+Ajudants de preparació d'aliments,OC94,Ocupacions elementals,2016,1345.6,67.95,129.19,0.71
+Ajudants de preparació d'aliments,OC94,Ocupacions elementals,2017,1421.4,66.34,136.46,0.74
+Ajudants de preparació d'aliments,OC94,Ocupacions elementals,2018,1432.4,66.42,137.52,0.74
+Ajudants de preparació d'aliments,OC94,Ocupacions elementals,2019,1423.5,68.05,136.66,0.73
+Ajudants de preparació d'aliments,OC94,Ocupacions elementals,2020,1247.1,65.74,119.73,0.65
+Ajudants de preparació d'aliments,OC94,Ocupacions elementals,2021,1258.4,67.11,120.81,0.65
+Ajudants de preparació d'aliments,OC94,Ocupacions elementals,2022,1418.2,65.2,136.16,0.72
+Ajudants de preparació d'aliments,OC94,Ocupacions elementals,2023,1464.5,66.12,140.6,0.74
+Ajudants de preparació d'aliments,OC94,Ocupacions elementals,2024,1543.6,65.98,148.2,0.77
+Ajudants de preparació d'aliments,OC94,Ocupacions elementals,2025,1500.1,65.14,144.02,0.74
+Venedors ambulants i de serveis al carrer,OC95,Ocupacions elementals,2011,172.9,24.12,100.0,0.09
+Venedors ambulants i de serveis al carrer,OC95,Ocupacions elementals,2012,161.8,22.5,93.58,0.09
+Venedors ambulants i de serveis al carrer,OC95,Ocupacions elementals,2013,156.4,23.74,90.46,0.09
+Venedors ambulants i de serveis al carrer,OC95,Ocupacions elementals,2014,160.7,23.94,92.94,0.09
+Venedors ambulants i de serveis al carrer,OC95,Ocupacions elementals,2015,169.8,23.85,98.21,0.09
+Venedors ambulants i de serveis al carrer,OC95,Ocupacions elementals,2016,172.6,20.92,99.83,0.09
+Venedors ambulants i de serveis al carrer,OC95,Ocupacions elementals,2017,162.5,19.14,93.98,0.09
+Venedors ambulants i de serveis al carrer,OC95,Ocupacions elementals,2018,152.0,20.59,87.91,0.08
+Venedors ambulants i de serveis al carrer,OC95,Ocupacions elementals,2019,152.2,21.81,88.03,0.08
+Venedors ambulants i de serveis al carrer,OC95,Ocupacions elementals,2020,129.0,22.17,74.61,0.07
+Venedors ambulants i de serveis al carrer,OC95,Ocupacions elementals,2021,112.4,17.97,65.01,0.06
+Venedors ambulants i de serveis al carrer,OC95,Ocupacions elementals,2022,106.2,20.15,61.42,0.05
+Venedors ambulants i de serveis al carrer,OC95,Ocupacions elementals,2023,93.0,24.09,53.79,0.05
+Venedors ambulants i de serveis al carrer,OC95,Ocupacions elementals,2024,102.1,20.57,59.05,0.05
+Venedors ambulants i de serveis al carrer,OC95,Ocupacions elementals,2025,98.8,20.47,57.14,0.05
+Recollidors de residus i altres ocupacions elementals,OC96,Ocupacions elementals,2011,1747.3,32.02,100.0,0.95
+Recollidors de residus i altres ocupacions elementals,OC96,Ocupacions elementals,2012,1811.0,30.96,103.65,0.99
+Recollidors de residus i altres ocupacions elementals,OC96,Ocupacions elementals,2013,1869.8,30.92,107.01,1.03
+Recollidors de residus i altres ocupacions elementals,OC96,Ocupacions elementals,2014,1963.2,32.41,112.36,1.07
+Recollidors de residus i altres ocupacions elementals,OC96,Ocupacions elementals,2015,1986.3,31.46,113.68,1.07
+Recollidors de residus i altres ocupacions elementals,OC96,Ocupacions elementals,2016,2028.8,32.46,116.11,1.08
+Recollidors de residus i altres ocupacions elementals,OC96,Ocupacions elementals,2017,2022.2,30.36,115.73,1.06
+Recollidors de residus i altres ocupacions elementals,OC96,Ocupacions elementals,2018,1879.2,27.55,107.55,0.97
+Recollidors de residus i altres ocupacions elementals,OC96,Ocupacions elementals,2019,1849.1,27.12,105.83,0.95
+Recollidors de residus i altres ocupacions elementals,OC96,Ocupacions elementals,2020,1829.2,26.21,104.69,0.95
+Recollidors de residus i altres ocupacions elementals,OC96,Ocupacions elementals,2021,1840.0,25.4,105.31,0.96
+Recollidors de residus i altres ocupacions elementals,OC96,Ocupacions elementals,2022,1839.8,24.83,105.29,0.93
+Recollidors de residus i altres ocupacions elementals,OC96,Ocupacions elementals,2023,1871.6,24.01,107.11,0.94
+Recollidors de residus i altres ocupacions elementals,OC96,Ocupacions elementals,2024,1828.4,23.1,104.64,0.91
+Recollidors de residus i altres ocupacions elementals,OC96,Ocupacions elementals,2025,1841.9,23.05,105.41,0.91

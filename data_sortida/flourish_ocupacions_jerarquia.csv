@@ -1,0 +1,43 @@
+grup_nom,ocupacio,ocupats_T,dones_pct
+Forces armades,Oficials de les forces armades,271.1,13.87
+Forces armades,Suboficials de les forces armades,382.8,13.35
+Forces armades,Altres membres de les forces armades,568.3,13.13
+Directius i gerents,Directius executius i alts càrrecs,1579.9,28.77
+Directius i gerents,Directors d'administració i comercials,2954.7,44.78
+Directius i gerents,Directors de producció i serveis especialitzats,3716.6,30.88
+Directius i gerents,"Directors d'hostaleria, comerç i altres serveis",2485.8,39.78
+Professionals científics i intel·lectuals,Professionals de la ciència i l'enginyeria,7904.6,31.48
+Professionals científics i intel·lectuals,Professionals de la salut,6231.2,71.99
+Professionals científics i intel·lectuals,Professionals de l'ensenyament,10966.5,73.76
+Professionals científics i intel·lectuals,Professionals d'empresa i administració,10107.4,54.25
+Professionals científics i intel·lectuals,Professionals de les TIC,5423.0,19.2
+Professionals científics i intel·lectuals,"Professionals del dret, socials i culturals",6196.4,63.11
+Tècnics i professionals de suport,Tècnics de ciència i enginyeria,6917.7,19.37
+Tècnics i professionals de suport,Tècnics de la salut,6205.6,78.22
+Tècnics i professionals de suport,Tècnics d'empresa i administració,13374.5,56.07
+Tècnics i professionals de suport,"Tècnics de serveis jurídics, socials i culturals",3845.7,59.46
+Tècnics i professionals de suport,Tècnics de les TIC,2021.4,16.41
+Personal administratiu,Administratius generals i d'oficina,7911.7,79.49
+Personal administratiu,Personal d'atenció al client,3533.7,70.41
+Personal administratiu,Administratius de registre numèric i de materials,6014.2,47.95
+Personal administratiu,Altre personal administratiu,1573.9,60.97
+Treballadors de serveis i vendes,Treballadors de serveis personals,8957.7,58.26
+Treballadors de serveis i vendes,Venedors,13434.3,65.53
+Treballadors de serveis i vendes,Treballadors de cura personal,6663.9,87.39
+Treballadors de serveis i vendes,Personal de serveis de protecció i seguretat,3149.8,17.63
+"Treballadors qualificats agrícoles, forestals i pesquers",Agricultors i ramaders de mercat,4523.2,28.55
+"Treballadors qualificats agrícoles, forestals i pesquers","Treballadors forestals, pescadors i caçadors de mercat",254.4,6.61
+Artesans i treballadors d'oficis,Treballadors de la construcció (excepte electricistes),7528.6,2.35
+Artesans i treballadors d'oficis,Treballadors del metall i la maquinària,7446.7,4.42
+Artesans i treballadors d'oficis,Artesans i treballadors de les arts gràfiques,916.4,34.65
+Artesans i treballadors d'oficis,Electricistes i electrònics,3156.6,4.02
+Artesans i treballadors d'oficis,"Treballadors de l'alimentació, la fusta, el tèxtil i altres oficis",3742.3,40.02
+Operadors d'instal·lacions i maquinària i muntadors,Operadors d'instal·lacions fixes i maquinària,4395.3,32.79
+Operadors d'instal·lacions i maquinària i muntadors,Muntadors,1440.4,37.84
+Operadors d'instal·lacions i maquinària i muntadors,Conductors i operadors de maquinària mòbil,8322.3,5.2
+Ocupacions elementals,Personal de neteja i ajudants,6397.5,83.68
+Ocupacions elementals,"Peons agrícoles, forestals i pesquers",1405.6,25.7
+Ocupacions elementals,"Peons de mineria, construcció, indústria i transports",5239.9,28.53
+Ocupacions elementals,Ajudants de preparació d'aliments,1500.1,65.14
+Ocupacions elementals,Venedors ambulants i de serveis al carrer,98.8,20.47
+Ocupacions elementals,Recollidors de residus i altres ocupacions elementals,1841.9,23.05
